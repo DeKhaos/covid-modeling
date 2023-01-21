@@ -1,0 +1,49 @@
+age_range,case,distribution,gender
+0-2,31534,Group 1,Male
+3-5,26608,Group 1,Male
+6-12,75777,Group 1,Male
+13-17,51322,Group 1,Male
+18-49,562326,Group 1,Male
+50-65,121300,Group 1,Male
+> 65,40867,Group 1,Male
+0-2,28770,Group 1,Female
+3-5,23785,Group 1,Female
+6-12,65323,Group 1,Female
+13-17,46836,Group 1,Female
+18-49,578352,Group 1,Female
+50-65,162026,Group 1,Female
+> 65,69719,Group 1,Female
+0-9,101146,Group 3,Male
+10-19,113365,Group 3,Male
+20-29,199321,Group 3,Male
+30-39,208148,Group 3,Male
+40-49,125587,Group 3,Male
+50-59,88214,Group 3,Male
+60-69,47658,Group 3,Male
+70-79,17048,Group 3,Male
+>= 80,9247,Group 3,Male
+0-9,89863,Group 3,Female
+10-19,102214,Group 3,Female
+20-29,188263,Group 3,Female
+30-39,213784,Group 3,Female
+40-49,148942,Group 3,Female
+50-59,112893,Group 3,Female
+60-69,71956,Group 3,Female
+70-79,29022,Group 3,Female
+>= 80,17874,Group 3,Female
+< 12,123111,Group 3,Male
+12-17,62130,Group 3,Male
+18-24,120277,Group 3,Male
+25-39,316462,Group 3,Male
+40-49,125587,Group 3,Male
+50-64,116742,Group 3,Male
+65-74,30088,Group 3,Male
+> 74,15337,Group 3,Male
+< 12,108560,Group 3,Female
+12-17,56154,Group 3,Female
+18-24,112484,Group 3,Female
+25-39,316926,Group 3,Female
+40-49,148942,Group 3,Female
+50-64,155083,Group 3,Female
+65-74,48065,Group 3,Female
+> 74,28597,Group 3,Female

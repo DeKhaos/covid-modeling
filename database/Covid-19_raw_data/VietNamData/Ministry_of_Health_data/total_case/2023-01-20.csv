@@ -1,0 +1,3229 @@
+date,case,case_origin,code
+2020-01-23,1,Trong nước,local_case
+2020-01-24,0,Trong nước,local_case
+2020-01-25,0,Trong nước,local_case
+2020-01-26,1,Trong nước,local_case
+2020-01-27,0,Trong nước,local_case
+2020-01-28,0,Trong nước,local_case
+2020-01-29,0,Trong nước,local_case
+2020-01-30,1,Trong nước,local_case
+2020-01-31,0,Trong nước,local_case
+2020-02-01,0,Trong nước,local_case
+2020-02-02,0,Trong nước,local_case
+2020-02-03,0,Trong nước,local_case
+2020-02-04,1,Trong nước,local_case
+2020-02-05,0,Trong nước,local_case
+2020-02-06,0,Trong nước,local_case
+2020-02-07,1,Trong nước,local_case
+2020-02-08,1,Trong nước,local_case
+2020-02-09,0,Trong nước,local_case
+2020-02-10,0,Trong nước,local_case
+2020-02-11,0,Trong nước,local_case
+2020-02-12,1,Trong nước,local_case
+2020-02-13,0,Trong nước,local_case
+2020-02-14,0,Trong nước,local_case
+2020-02-15,0,Trong nước,local_case
+2020-02-16,0,Trong nước,local_case
+2020-02-17,0,Trong nước,local_case
+2020-02-18,0,Trong nước,local_case
+2020-02-19,0,Trong nước,local_case
+2020-03-06,0,Trong nước,local_case
+2020-03-07,2,Trong nước,local_case
+2020-03-08,0,Trong nước,local_case
+2020-03-09,0,Trong nước,local_case
+2020-03-10,0,Trong nước,local_case
+2020-03-11,10,Trong nước,local_case
+2020-03-12,1,Trong nước,local_case
+2020-03-13,2,Trong nước,local_case
+2020-03-14,0,Trong nước,local_case
+2020-03-15,0,Trong nước,local_case
+2020-03-16,0,Trong nước,local_case
+2020-03-17,1,Trong nước,local_case
+2020-03-18,0,Trong nước,local_case
+2020-03-19,2,Trong nước,local_case
+2020-03-20,0,Trong nước,local_case
+2020-03-21,1,Trong nước,local_case
+2020-03-22,5,Trong nước,local_case
+2020-03-23,3,Trong nước,local_case
+2020-03-24,12,Trong nước,local_case
+2020-03-25,1,Trong nước,local_case
+2020-03-26,20,Trong nước,local_case
+2020-03-27,3,Trong nước,local_case
+2020-03-28,7,Trong nước,local_case
+2020-03-29,15,Trong nước,local_case
+2020-03-30,10,Trong nước,local_case
+2020-03-31,9,Trong nước,local_case
+2020-04-01,12,Trong nước,local_case
+2020-04-02,10,Trong nước,local_case
+2020-04-03,3,Trong nước,local_case
+2020-04-04,2,Trong nước,local_case
+2020-04-05,0,Trong nước,local_case
+2020-04-06,1,Trong nước,local_case
+2020-04-07,1,Trong nước,local_case
+2020-04-08,2,Trong nước,local_case
+2020-04-09,1,Trong nước,local_case
+2020-04-10,2,Trong nước,local_case
+2020-04-11,1,Trong nước,local_case
+2020-04-12,2,Trong nước,local_case
+2020-04-13,5,Trong nước,local_case
+2020-04-14,1,Trong nước,local_case
+2020-04-15,1,Trong nước,local_case
+2020-04-16,1,Trong nước,local_case
+2020-04-17,0,Trong nước,local_case
+2020-04-18,0,Trong nước,local_case
+2020-04-19,0,Trong nước,local_case
+2020-04-20,0,Trong nước,local_case
+2020-04-21,0,Trong nước,local_case
+2020-04-22,0,Trong nước,local_case
+2020-04-23,0,Trong nước,local_case
+2020-04-24,0,Trong nước,local_case
+2020-04-25,0,Trong nước,local_case
+2020-04-26,0,Trong nước,local_case
+2020-04-27,0,Trong nước,local_case
+2020-04-28,0,Trong nước,local_case
+2020-04-29,0,Trong nước,local_case
+2020-04-30,0,Trong nước,local_case
+2020-05-01,0,Trong nước,local_case
+2020-05-03,0,Trong nước,local_case
+2020-05-04,0,Trong nước,local_case
+2020-05-05,0,Trong nước,local_case
+2020-05-06,0,Trong nước,local_case
+2020-05-07,0,Trong nước,local_case
+2020-05-08,0,Trong nước,local_case
+2020-05-09,0,Trong nước,local_case
+2020-05-10,0,Trong nước,local_case
+2020-05-11,0,Trong nước,local_case
+2020-05-12,0,Trong nước,local_case
+2020-05-13,0,Trong nước,local_case
+2020-05-14,0,Trong nước,local_case
+2020-05-15,0,Trong nước,local_case
+2020-05-16,0,Trong nước,local_case
+2020-05-17,0,Trong nước,local_case
+2020-05-18,0,Trong nước,local_case
+2020-05-19,0,Trong nước,local_case
+2020-05-20,0,Trong nước,local_case
+2020-05-21,0,Trong nước,local_case
+2020-05-22,0,Trong nước,local_case
+2020-05-23,0,Trong nước,local_case
+2020-05-24,1,Trong nước,local_case
+2020-05-25,1,Trong nước,local_case
+2020-05-26,1,Trong nước,local_case
+2020-05-27,0,Trong nước,local_case
+2020-05-28,0,Trong nước,local_case
+2020-05-29,0,Trong nước,local_case
+2020-05-30,1,Trong nước,local_case
+2020-05-31,0,Trong nước,local_case
+2020-06-01,0,Trong nước,local_case
+2020-06-02,0,Trong nước,local_case
+2020-06-03,0,Trong nước,local_case
+2020-06-04,0,Trong nước,local_case
+2020-06-05,0,Trong nước,local_case
+2020-06-06,1,Trong nước,local_case
+2020-06-07,0,Trong nước,local_case
+2020-06-08,3,Trong nước,local_case
+2020-06-09,0,Trong nước,local_case
+2020-06-10,0,Trong nước,local_case
+2020-06-11,0,Trong nước,local_case
+2020-06-12,1,Trong nước,local_case
+2020-06-13,1,Trong nước,local_case
+2020-06-14,0,Trong nước,local_case
+2020-06-15,0,Trong nước,local_case
+2020-06-16,0,Trong nước,local_case
+2020-06-17,0,Trong nước,local_case
+2020-06-18,0,Trong nước,local_case
+2020-06-19,7,Trong nước,local_case
+2020-06-20,0,Trong nước,local_case
+2020-06-21,0,Trong nước,local_case
+2020-06-22,0,Trong nước,local_case
+2020-06-23,0,Trong nước,local_case
+2020-06-24,2,Trong nước,local_case
+2020-06-25,0,Trong nước,local_case
+2020-06-26,1,Trong nước,local_case
+2020-06-27,2,Trong nước,local_case
+2020-06-28,0,Trong nước,local_case
+2020-06-29,0,Trong nước,local_case
+2020-06-30,0,Trong nước,local_case
+2020-07-01,0,Trong nước,local_case
+2020-07-02,0,Trong nước,local_case
+2020-07-03,0,Trong nước,local_case
+2020-07-04,0,Trong nước,local_case
+2020-07-06,14,Trong nước,local_case
+2020-07-07,0,Trong nước,local_case
+2020-07-08,0,Trong nước,local_case
+2020-07-09,0,Trong nước,local_case
+2020-07-10,0,Trong nước,local_case
+2020-07-11,1,Trong nước,local_case
+2020-07-12,0,Trong nước,local_case
+2020-07-13,0,Trong nước,local_case
+2020-07-14,1,Trong nước,local_case
+2020-07-15,0,Trong nước,local_case
+2020-07-16,0,Trong nước,local_case
+2020-07-17,0,Trong nước,local_case
+2020-07-18,0,Trong nước,local_case
+2020-07-19,1,Trong nước,local_case
+2020-07-20,0,Trong nước,local_case
+2020-07-21,12,Trong nước,local_case
+2020-07-22,5,Trong nước,local_case
+2020-07-23,4,Trong nước,local_case
+2020-07-24,1,Trong nước,local_case
+2020-07-25,3,Trong nước,local_case
+2020-07-26,3,Trong nước,local_case
+2020-07-27,2,Trong nước,local_case
+2020-07-28,16,Trong nước,local_case
+2020-07-29,12,Trong nước,local_case
+2020-07-30,14,Trong nước,local_case
+2020-07-31,56,Trong nước,local_case
+2020-08-01,43,Trong nước,local_case
+2020-08-02,32,Trong nước,local_case
+2020-08-03,29,Trong nước,local_case
+2020-08-04,38,Trong nước,local_case
+2020-08-05,42,Trong nước,local_case
+2020-08-06,31,Trong nước,local_case
+2020-08-07,33,Trong nước,local_case
+2020-08-08,21,Trong nước,local_case
+2020-08-09,39,Trong nước,local_case
+2020-08-10,5,Trong nước,local_case
+2020-08-11,13,Trong nước,local_case
+2020-08-12,20,Trong nước,local_case
+2020-08-13,24,Trong nước,local_case
+2020-08-14,24,Trong nước,local_case
+2020-08-15,16,Trong nước,local_case
+2020-08-16,9,Trong nước,local_case
+2020-08-17,13,Trong nước,local_case
+2020-08-18,10,Trong nước,local_case
+2020-08-19,4,Trong nước,local_case
+2020-08-20,13,Trong nước,local_case
+2020-08-21,2,Trong nước,local_case
+2020-08-22,5,Trong nước,local_case
+2020-08-23,2,Trong nước,local_case
+2020-08-24,6,Trong nước,local_case
+2020-08-25,7,Trong nước,local_case
+2020-08-26,0,Trong nước,local_case
+2020-08-27,2,Trong nước,local_case
+2020-08-28,1,Trong nước,local_case
+2020-08-29,1,Trong nước,local_case
+2020-08-30,0,Trong nước,local_case
+2020-08-31,0,Trong nước,local_case
+2020-09-01,0,Trong nước,local_case
+2020-09-02,1,Trong nước,local_case
+2020-09-03,0,Trong nước,local_case
+2020-09-04,0,Trong nước,local_case
+2020-09-05,0,Trong nước,local_case
+2020-09-06,0,Trong nước,local_case
+2020-09-07,0,Trong nước,local_case
+2020-09-08,0,Trong nước,local_case
+2020-09-09,0,Trong nước,local_case
+2020-09-10,0,Trong nước,local_case
+2020-09-11,0,Trong nước,local_case
+2020-09-12,0,Trong nước,local_case
+2020-09-13,0,Trong nước,local_case
+2020-09-14,0,Trong nước,local_case
+2020-09-15,0,Trong nước,local_case
+2020-09-16,0,Trong nước,local_case
+2020-09-17,0,Trong nước,local_case
+2020-09-18,0,Trong nước,local_case
+2020-09-19,0,Trong nước,local_case
+2020-09-20,0,Trong nước,local_case
+2020-09-21,0,Trong nước,local_case
+2020-09-22,0,Trong nước,local_case
+2020-09-23,0,Trong nước,local_case
+2020-09-24,0,Trong nước,local_case
+2020-09-25,0,Trong nước,local_case
+2020-09-26,0,Trong nước,local_case
+2020-09-27,0,Trong nước,local_case
+2020-09-28,2,Trong nước,local_case
+2020-09-29,0,Trong nước,local_case
+2020-09-30,0,Trong nước,local_case
+2020-10-01,0,Trong nước,local_case
+2020-10-02,0,Trong nước,local_case
+2020-10-03,0,Trong nước,local_case
+2020-10-04,0,Trong nước,local_case
+2020-10-05,0,Trong nước,local_case
+2020-10-06,0,Trong nước,local_case
+2020-10-07,0,Trong nước,local_case
+2020-10-08,0,Trong nước,local_case
+2020-10-09,0,Trong nước,local_case
+2020-10-10,0,Trong nước,local_case
+2020-10-11,0,Trong nước,local_case
+2020-10-12,0,Trong nước,local_case
+2020-10-13,0,Trong nước,local_case
+2020-10-14,0,Trong nước,local_case
+2020-10-15,0,Trong nước,local_case
+2020-10-16,0,Trong nước,local_case
+2020-10-17,0,Trong nước,local_case
+2020-10-18,0,Trong nước,local_case
+2020-10-19,0,Trong nước,local_case
+2020-10-20,0,Trong nước,local_case
+2020-10-21,0,Trong nước,local_case
+2020-10-22,0,Trong nước,local_case
+2020-10-23,0,Trong nước,local_case
+2020-10-24,0,Trong nước,local_case
+2020-10-25,0,Trong nước,local_case
+2020-10-26,0,Trong nước,local_case
+2020-10-27,0,Trong nước,local_case
+2020-10-28,0,Trong nước,local_case
+2020-10-29,0,Trong nước,local_case
+2020-10-30,0,Trong nước,local_case
+2020-10-31,0,Trong nước,local_case
+2020-11-01,0,Trong nước,local_case
+2020-11-02,0,Trong nước,local_case
+2020-11-03,0,Trong nước,local_case
+2020-11-04,0,Trong nước,local_case
+2020-11-05,0,Trong nước,local_case
+2020-11-06,0,Trong nước,local_case
+2020-11-07,0,Trong nước,local_case
+2020-11-08,0,Trong nước,local_case
+2020-11-09,0,Trong nước,local_case
+2020-11-10,0,Trong nước,local_case
+2020-11-11,0,Trong nước,local_case
+2020-11-12,0,Trong nước,local_case
+2020-11-13,0,Trong nước,local_case
+2020-11-14,0,Trong nước,local_case
+2020-11-15,0,Trong nước,local_case
+2020-11-16,0,Trong nước,local_case
+2020-11-17,0,Trong nước,local_case
+2020-11-18,0,Trong nước,local_case
+2020-11-19,0,Trong nước,local_case
+2020-11-20,0,Trong nước,local_case
+2020-11-21,0,Trong nước,local_case
+2020-11-22,0,Trong nước,local_case
+2020-11-23,0,Trong nước,local_case
+2020-11-24,0,Trong nước,local_case
+2020-11-25,0,Trong nước,local_case
+2020-11-26,0,Trong nước,local_case
+2020-11-27,0,Trong nước,local_case
+2020-11-28,0,Trong nước,local_case
+2020-11-29,0,Trong nước,local_case
+2020-11-30,0,Trong nước,local_case
+2020-12-01,3,Trong nước,local_case
+2020-12-02,0,Trong nước,local_case
+2020-12-03,0,Trong nước,local_case
+2020-12-04,0,Trong nước,local_case
+2020-12-05,0,Trong nước,local_case
+2020-12-06,0,Trong nước,local_case
+2020-12-07,0,Trong nước,local_case
+2020-12-08,0,Trong nước,local_case
+2020-12-09,0,Trong nước,local_case
+2020-12-10,0,Trong nước,local_case
+2020-12-11,0,Trong nước,local_case
+2020-12-12,0,Trong nước,local_case
+2020-12-13,0,Trong nước,local_case
+2020-12-14,0,Trong nước,local_case
+2020-12-15,0,Trong nước,local_case
+2020-12-16,0,Trong nước,local_case
+2020-12-17,0,Trong nước,local_case
+2020-12-18,0,Trong nước,local_case
+2020-12-19,0,Trong nước,local_case
+2020-12-20,0,Trong nước,local_case
+2020-12-21,0,Trong nước,local_case
+2020-12-22,0,Trong nước,local_case
+2020-12-23,0,Trong nước,local_case
+2020-12-24,0,Trong nước,local_case
+2020-12-25,0,Trong nước,local_case
+2020-12-26,0,Trong nước,local_case
+2020-12-27,0,Trong nước,local_case
+2020-12-28,0,Trong nước,local_case
+2020-12-29,0,Trong nước,local_case
+2020-12-30,0,Trong nước,local_case
+2020-12-31,0,Trong nước,local_case
+2021-01-01,0,Trong nước,local_case
+2021-01-02,0,Trong nước,local_case
+2021-01-03,0,Trong nước,local_case
+2021-01-04,0,Trong nước,local_case
+2021-01-05,0,Trong nước,local_case
+2021-01-06,0,Trong nước,local_case
+2021-01-07,0,Trong nước,local_case
+2021-01-08,0,Trong nước,local_case
+2021-01-09,0,Trong nước,local_case
+2021-01-10,0,Trong nước,local_case
+2021-01-11,0,Trong nước,local_case
+2021-01-12,0,Trong nước,local_case
+2021-01-13,0,Trong nước,local_case
+2021-01-14,0,Trong nước,local_case
+2021-01-15,0,Trong nước,local_case
+2021-01-16,0,Trong nước,local_case
+2021-01-17,0,Trong nước,local_case
+2021-01-18,0,Trong nước,local_case
+2021-01-19,0,Trong nước,local_case
+2021-01-20,0,Trong nước,local_case
+2021-01-21,0,Trong nước,local_case
+2021-01-22,0,Trong nước,local_case
+2021-01-23,0,Trong nước,local_case
+2021-01-24,0,Trong nước,local_case
+2021-01-25,0,Trong nước,local_case
+2021-01-26,0,Trong nước,local_case
+2021-01-27,0,Trong nước,local_case
+2021-01-28,2,Trong nước,local_case
+2021-01-29,96,Trong nước,local_case
+2021-01-30,39,Trong nước,local_case
+2021-01-31,99,Trong nước,local_case
+2021-02-01,34,Trong nước,local_case
+2021-02-02,23,Trong nước,local_case
+2021-02-03,36,Trong nước,local_case
+2021-02-04,46,Trong nước,local_case
+2021-02-05,18,Trong nước,local_case
+2021-02-06,5,Trong nước,local_case
+2021-02-07,20,Trong nước,local_case
+2021-02-08,12,Trong nước,local_case
+2021-02-09,53,Trong nước,local_case
+2021-02-10,21,Trong nước,local_case
+2021-02-11,49,Trong nước,local_case
+2021-02-12,2,Trong nước,local_case
+2021-02-13,49,Trong nước,local_case
+2021-02-14,33,Trong nước,local_case
+2021-02-15,11,Trong nước,local_case
+2021-02-16,43,Trong nước,local_case
+2021-02-17,44,Trong nước,local_case
+2021-02-18,2,Trong nước,local_case
+2021-02-19,19,Trong nước,local_case
+2021-02-20,14,Trong nước,local_case
+2021-02-21,13,Trong nước,local_case
+2021-02-22,10,Trong nước,local_case
+2021-02-23,16,Trong nước,local_case
+2021-02-24,11,Trong nước,local_case
+2021-02-25,8,Trong nước,local_case
+2021-02-26,6,Trong nước,local_case
+2021-02-27,6,Trong nước,local_case
+2021-02-28,16,Trong nước,local_case
+2021-03-01,13,Trong nước,local_case
+2021-03-02,11,Trong nước,local_case
+2021-03-03,9,Trong nước,local_case
+2021-03-04,6,Trong nước,local_case
+2021-03-05,6,Trong nước,local_case
+2021-03-06,12,Trong nước,local_case
+2021-03-07,2,Trong nước,local_case
+2021-03-08,1,Trong nước,local_case
+2021-03-09,1,Trong nước,local_case
+2021-03-10,2,Trong nước,local_case
+2021-03-11,0,Trong nước,local_case
+2021-03-12,4,Trong nước,local_case
+2021-03-13,2,Trong nước,local_case
+2021-03-14,0,Trong nước,local_case
+2021-03-15,1,Trong nước,local_case
+2021-03-16,3,Trong nước,local_case
+2021-03-17,2,Trong nước,local_case
+2021-03-18,2,Trong nước,local_case
+2021-03-19,0,Trong nước,local_case
+2021-03-20,0,Trong nước,local_case
+2021-03-21,0,Trong nước,local_case
+2021-03-22,0,Trong nước,local_case
+2021-03-23,0,Trong nước,local_case
+2021-03-24,0,Trong nước,local_case
+2021-03-25,2,Trong nước,local_case
+2021-03-26,0,Trong nước,local_case
+2021-03-27,0,Trong nước,local_case
+2021-03-28,0,Trong nước,local_case
+2021-03-29,0,Trong nước,local_case
+2021-03-30,0,Trong nước,local_case
+2021-03-31,0,Trong nước,local_case
+2021-04-01,0,Trong nước,local_case
+2021-04-02,0,Trong nước,local_case
+2021-04-03,0,Trong nước,local_case
+2021-04-04,0,Trong nước,local_case
+2021-04-05,0,Trong nước,local_case
+2021-04-06,0,Trong nước,local_case
+2021-04-07,0,Trong nước,local_case
+2021-04-08,0,Trong nước,local_case
+2021-04-09,0,Trong nước,local_case
+2021-04-10,0,Trong nước,local_case
+2021-04-11,0,Trong nước,local_case
+2021-04-12,0,Trong nước,local_case
+2021-04-13,0,Trong nước,local_case
+2021-04-14,0,Trong nước,local_case
+2021-04-15,0,Trong nước,local_case
+2021-04-16,0,Trong nước,local_case
+2021-04-17,0,Trong nước,local_case
+2021-04-18,0,Trong nước,local_case
+2021-04-19,0,Trong nước,local_case
+2021-04-20,0,Trong nước,local_case
+2021-04-21,0,Trong nước,local_case
+2021-04-22,0,Trong nước,local_case
+2021-04-23,0,Trong nước,local_case
+2021-04-24,0,Trong nước,local_case
+2021-04-25,0,Trong nước,local_case
+2021-04-26,0,Trong nước,local_case
+2021-04-27,1,Trong nước,local_case
+2021-04-28,0,Trong nước,local_case
+2021-04-29,6,Trong nước,local_case
+2021-04-30,7,Trong nước,local_case
+2021-05-01,2,Trong nước,local_case
+2021-05-02,3,Trong nước,local_case
+2021-05-03,12,Trong nước,local_case
+2021-05-04,7,Trong nước,local_case
+2021-05-05,4,Trong nước,local_case
+2021-05-06,77,Trong nước,local_case
+2021-05-07,42,Trong nước,local_case
+2021-05-08,82,Trong nước,local_case
+2021-05-09,90,Trong nước,local_case
+2021-05-10,128,Trong nước,local_case
+2021-05-11,83,Trong nước,local_case
+2021-05-12,76,Trong nước,local_case
+2021-05-13,88,Trong nước,local_case
+2021-05-14,96,Trong nước,local_case
+2021-05-15,76,Trong nước,local_case
+2021-05-16,291,Trong nước,local_case
+2021-05-17,118,Trong nước,local_case
+2021-05-18,156,Trong nước,local_case
+2021-05-19,104,Trong nước,local_case
+2021-05-20,196,Trong nước,local_case
+2021-05-21,119,Trong nước,local_case
+2021-05-22,146,Trong nước,local_case
+2021-05-23,138,Trong nước,local_case
+2021-05-24,189,Trong nước,local_case
+2021-05-25,441,Trong nước,local_case
+2021-05-26,236,Trong nước,local_case
+2021-05-27,191,Trong nước,local_case
+2021-05-28,294,Trong nước,local_case
+2021-05-29,277,Trong nước,local_case
+2021-05-30,202,Trong nước,local_case
+2021-05-31,260,Trong nước,local_case
+2021-06-01,262,Trong nước,local_case
+2021-06-02,205,Trong nước,local_case
+2021-06-03,252,Trong nước,local_case
+2021-06-04,229,Trong nước,local_case
+2021-06-05,241,Trong nước,local_case
+2021-06-06,204,Trong nước,local_case
+2021-06-07,214,Trong nước,local_case
+2021-06-08,171,Trong nước,local_case
+2021-06-09,383,Trong nước,local_case
+2021-06-10,211,Trong nước,local_case
+2021-06-11,186,Trong nước,local_case
+2021-06-12,260,Trong nước,local_case
+2021-06-13,282,Trong nước,local_case
+2021-06-14,267,Trong nước,local_case
+2021-06-15,398,Trong nước,local_case
+2021-06-16,416,Trong nước,local_case
+2021-06-17,503,Trong nước,local_case
+2021-06-18,261,Trong nước,local_case
+2021-06-19,440,Trong nước,local_case
+2021-06-20,343,Trong nước,local_case
+2021-06-21,268,Trong nước,local_case
+2021-06-22,168,Trong nước,local_case
+2021-06-23,217,Trong nước,local_case
+2021-06-24,341,Trong nước,local_case
+2021-06-25,849,Trong nước,local_case
+2021-06-26,100,Trong nước,local_case
+2021-06-27,329,Trong nước,local_case
+2021-06-28,479,Trong nước,local_case
+2021-06-29,282,Trong nước,local_case
+2021-06-30,529,Trong nước,local_case
+2021-07-01,698,Trong nước,local_case
+2021-07-02,528,Trong nước,local_case
+2021-07-03,916,Trong nước,local_case
+2021-07-04,851,Trong nước,local_case
+2021-07-05,1099,Trong nước,local_case
+2021-07-06,1041,Trong nước,local_case
+2021-07-07,1513,Trong nước,local_case
+2021-07-08,793,Trong nước,local_case
+2021-07-09,1613,Trong nước,local_case
+2021-07-10,1872,Trong nước,local_case
+2021-07-11,1933,Trong nước,local_case
+2021-07-12,2365,Trong nước,local_case
+2021-07-13,2299,Trong nước,local_case
+2021-07-14,2222,Trong nước,local_case
+2021-07-15,4096,Trong nước,local_case
+2021-07-16,1657,Trong nước,local_case
+2021-07-17,6017,Trong nước,local_case
+2021-07-18,5301,Trong nước,local_case
+2021-07-19,4188,Trong nước,local_case
+2021-07-20,4781,Trong nước,local_case
+2021-07-21,7091,Trong nước,local_case
+2021-07-22,6528,Trong nước,local_case
+2021-07-23,5273,Trong nước,local_case
+2021-07-24,9248,Trong nước,local_case
+2021-07-25,4593,Trong nước,local_case
+2021-07-26,10810,Trong nước,local_case
+2021-07-27,7893,Trong nước,local_case
+2021-07-28,6561,Trong nước,local_case
+2021-07-29,7597,Trong nước,local_case
+2021-07-30,8626,Trong nước,local_case
+2021-07-31,8627,Trong nước,local_case
+2021-08-01,8600,Trong nước,local_case
+2021-08-02,7449,Trong nước,local_case
+2021-08-03,8381,Trong nước,local_case
+2021-08-04,7690,Trong nước,local_case
+2021-08-05,7238,Trong nước,local_case
+2021-08-06,8326,Trong nước,local_case
+2021-08-07,7358,Trong nước,local_case
+2021-08-08,9685,Trong nước,local_case
+2021-08-09,9350,Trong nước,local_case
+2021-08-10,8403,Trong nước,local_case
+2021-08-11,8767,Trong nước,local_case
+2021-08-12,9668,Trong nước,local_case
+2021-08-13,9157,Trong nước,local_case
+2021-08-14,9712,Trong nước,local_case
+2021-08-15,9576,Trong nước,local_case
+2021-08-16,8675,Trong nước,local_case
+2021-08-17,9633,Trong nước,local_case
+2021-08-18,8666,Trong nước,local_case
+2021-08-19,10684,Trong nước,local_case
+2021-08-20,10695,Trong nước,local_case
+2021-08-21,13457,Trong nước,local_case
+2021-08-22,11366,Trong nước,local_case
+2021-08-23,10430,Trong nước,local_case
+2021-08-24,10821,Trong nước,local_case
+2021-08-25,12146,Trong nước,local_case
+2021-08-26,11617,Trong nước,local_case
+2021-08-27,17455,Trong nước,local_case
+2021-08-28,12176,Trong nước,local_case
+2021-08-29,12789,Trong nước,local_case
+2021-08-30,14282,Trong nước,local_case
+2021-08-31,12667,Trong nước,local_case
+2021-09-01,11544,Trong nước,local_case
+2021-09-02,13267,Trong nước,local_case
+2021-09-03,14973,Trong nước,local_case
+2021-09-04,9606,Trong nước,local_case
+2021-09-05,13200,Trong nước,local_case
+2021-09-06,12747,Trong nước,local_case
+2021-09-07,14298,Trong nước,local_case
+2021-09-08,12758,Trong nước,local_case
+2021-09-09,12463,Trong nước,local_case
+2021-09-10,13449,Trong nước,local_case
+2021-09-11,12010,Trong nước,local_case
+2021-09-12,12121,Trong nước,local_case
+2021-09-13,11245,Trong nước,local_case
+2021-09-14,10541,Trong nước,local_case
+2021-09-15,10634,Trong nước,local_case
+2021-09-16,10542,Trong nước,local_case
+2021-09-17,11530,Trong nước,local_case
+2021-09-18,9384,Trong nước,local_case
+2021-09-19,10077,Trong nước,local_case
+2021-09-20,8710,Trong nước,local_case
+2021-09-21,11732,Trong nước,local_case
+2021-09-22,11593,Trong nước,local_case
+2021-09-23,9491,Trong nước,local_case
+2021-09-24,8547,Trong nước,local_case
+2021-09-25,9696,Trong nước,local_case
+2021-09-26,10033,Trong nước,local_case
+2021-09-27,9416,Trong nước,local_case
+2021-09-28,8065,Trong nước,local_case
+2021-09-29,8773,Trong nước,local_case
+2021-09-30,8205,Trong nước,local_case
+2021-10-01,7059,Trong nước,local_case
+2021-10-02,5602,Trong nước,local_case
+2021-10-03,7166,Trong nước,local_case
+2021-10-04,7547,Trong nước,local_case
+2021-10-05,5619,Trong nước,local_case
+2021-10-06,5228,Trong nước,local_case
+2021-10-07,4229,Trong nước,local_case
+2021-10-08,5178,Trong nước,local_case
+2021-10-09,4885,Trong nước,local_case
+2021-10-10,5193,Trong nước,local_case
+2021-10-11,4324,Trong nước,local_case
+2021-10-12,3253,Trong nước,local_case
+2021-10-13,4223,Trong nước,local_case
+2021-10-14,4996,Trong nước,local_case
+2021-10-15,4973,Trong nước,local_case
+2021-10-16,4014,Trong nước,local_case
+2021-10-17,3777,Trong nước,local_case
+2021-10-18,3919,Trong nước,local_case
+2021-10-19,3813,Trong nước,local_case
+2021-10-20,4052,Trong nước,local_case
+2021-10-21,4493,Trong nước,local_case
+2021-10-22,4457,Trong nước,local_case
+2021-10-23,4243,Trong nước,local_case
+2021-10-24,4653,Trong nước,local_case
+2021-10-25,4021,Trong nước,local_case
+2021-10-26,4235,Trong nước,local_case
+2021-10-27,5426,Trong nước,local_case
+2021-10-28,5465,Trong nước,local_case
+2021-10-29,5939,Trong nước,local_case
+2021-10-30,5573,Trong nước,local_case
+2021-10-31,6327,Trong nước,local_case
+2021-11-01,6171,Trong nước,local_case
+2021-11-02,5737,Trong nước,local_case
+2021-11-03,7410,Trong nước,local_case
+2021-11-04,6647,Trong nước,local_case
+2021-11-05,7574,Trong nước,local_case
+2021-11-06,7489,Trong nước,local_case
+2021-11-07,7631,Trong nước,local_case
+2021-11-08,7954,Trong nước,local_case
+2021-11-09,8129,Trong nước,local_case
+2021-11-10,7918,Trong nước,local_case
+2021-11-11,8145,Trong nước,local_case
+2021-11-12,8976,Trong nước,local_case
+2021-11-13,8451,Trong nước,local_case
+2021-11-14,8163,Trong nước,local_case
+2021-11-15,8603,Trong nước,local_case
+2021-11-16,10851,Trong nước,local_case
+2021-11-17,9954,Trong nước,local_case
+2021-11-18,11049,Trong nước,local_case
+2021-11-19,9648,Trong nước,local_case
+2021-11-20,10457,Trong nước,local_case
+2021-11-21,10778,Trong nước,local_case
+2021-11-22,10299,Trong nước,local_case
+2021-11-23,10614,Trong nước,local_case
+2021-11-24,12283,Trong nước,local_case
+2021-11-25,12429,Trong nước,local_case
+2021-11-26,13094,Trong nước,local_case
+2021-11-27,12376,Trong nước,local_case
+2021-11-28,12928,Trong nước,local_case
+2021-11-29,13758,Trong nước,local_case
+2021-11-30,13994,Trong nước,local_case
+2021-12-01,15460,Trong nước,local_case
+2021-12-02,17422,Trong nước,local_case
+2021-12-03,18013,Trong nước,local_case
+2021-12-04,15526,Trong nước,local_case
+2021-12-05,18395,Trong nước,local_case
+2021-12-06,14581,Trong nước,local_case
+2021-12-07,18731,Trong nước,local_case
+2021-12-08,14614,Trong nước,local_case
+2021-12-09,15300,Trong nước,local_case
+2021-12-10,15732,Trong nước,local_case
+2021-12-11,16104,Trong nước,local_case
+2021-12-12,14621,Trong nước,local_case
+2021-12-13,15349,Trong nước,local_case
+2021-12-14,15203,Trong nước,local_case
+2021-12-15,15522,Trong nước,local_case
+2021-12-16,14335,Trong nước,local_case
+2021-12-17,15215,Trong nước,local_case
+2021-12-18,15883,Trong nước,local_case
+2021-12-19,16093,Trong nước,local_case
+2021-12-20,14966,Trong nước,local_case
+2021-12-21,16316,Trong nước,local_case
+2021-12-22,16522,Trong nước,local_case
+2021-12-23,16367,Trong nước,local_case
+2021-12-24,16142,Trong nước,local_case
+2021-12-25,15559,Trong nước,local_case
+2021-12-26,15182,Trong nước,local_case
+2021-12-27,14867,Trong nước,local_case
+2021-12-28,14421,Trong nước,local_case
+2021-12-29,13873,Trong nước,local_case
+2021-12-30,19848,Trong nước,local_case
+2021-12-31,16476,Trong nước,local_case
+2022-01-01,14822,Trong nước,local_case
+2022-01-02,16914,Trong nước,local_case
+2022-01-03,15916,Trong nước,local_case
+2022-01-04,21696,Trong nước,local_case
+2022-01-05,16997,Trong nước,local_case
+2022-01-06,25787,Trong nước,local_case
+2022-01-07,16254,Trong nước,local_case
+2022-01-08,16513,Trong nước,local_case
+2022-01-09,23153,Trong nước,local_case
+2022-01-10,14783,Trong nước,local_case
+2022-01-11,16019,Trong nước,local_case
+2022-01-12,28222,Trong nước,local_case
+2022-01-13,16700,Trong nước,local_case
+2022-01-14,16026,Trong nước,local_case
+2022-01-15,16305,Trong nước,local_case
+2022-01-16,15643,Trong nước,local_case
+2022-01-17,21691,Trong nước,local_case
+2022-01-18,16763,Trong nước,local_case
+2022-01-19,15936,Trong nước,local_case
+2022-01-20,16637,Trong nước,local_case
+2022-01-21,15901,Trong nước,local_case
+2022-01-22,15658,Trong nước,local_case
+2022-01-23,14934,Trong nước,local_case
+2022-01-24,14307,Trong nước,local_case
+2022-01-25,15699,Trong nước,local_case
+2022-01-26,15885,Trong nước,local_case
+2022-01-27,15672,Trong nước,local_case
+2022-01-28,14892,Trong nước,local_case
+2022-01-29,19088,Trong nước,local_case
+2022-01-30,25740,Trong nước,local_case
+2022-01-31,12637,Trong nước,local_case
+2022-02-01,11011,Trong nước,local_case
+2022-02-02,8722,Trong nước,local_case
+2022-02-03,8575,Trong nước,local_case
+2022-02-04,11586,Trong nước,local_case
+2022-02-05,12160,Trong nước,local_case
+2022-02-06,14105,Trong nước,local_case
+2022-02-07,16809,Trong nước,local_case
+2022-02-08,21901,Trong nước,local_case
+2022-02-09,23953,Trong nước,local_case
+2022-02-10,26023,Trong nước,local_case
+2022-02-11,26470,Trong nước,local_case
+2022-02-12,27302,Trong nước,local_case
+2022-02-13,26372,Trong nước,local_case
+2022-02-14,29403,Trong nước,local_case
+2022-02-15,31800,Trong nước,local_case
+2022-02-16,34723,Trong nước,local_case
+2022-02-17,36190,Trong nước,local_case
+2022-02-18,42379,Trong nước,local_case
+2022-02-19,54668,Trong nước,local_case
+2022-02-20,47192,Trong nước,local_case
+2022-02-21,46861,Trong nước,local_case
+2022-02-22,55796,Trong nước,local_case
+2022-02-23,82109,Trong nước,local_case
+2022-02-24,69119,Trong nước,local_case
+2022-02-25,78526,Trong nước,local_case
+2022-02-26,98864,Trong nước,local_case
+2022-02-27,101404,Trong nước,local_case
+2022-02-28,120638,Trong nước,local_case
+2022-03-01,114125,Trong nước,local_case
+2022-03-02,151168,Trong nước,local_case
+2022-03-03,175939,Trong nước,local_case
+2022-03-04,172915,Trong nước,local_case
+2022-03-05,172996,Trong nước,local_case
+2022-03-06,201859,Trong nước,local_case
+2022-03-07,147335,Trong nước,local_case
+2022-03-08,194795,Trong nước,local_case
+2022-03-09,265143,Trong nước,local_case
+2022-03-10,218444,Trong nước,local_case
+2022-03-11,186677,Trong nước,local_case
+2022-03-12,432505,Trong nước,local_case
+2022-03-13,209486,Trong nước,local_case
+2022-03-14,264774,Trong nước,local_case
+2022-03-15,175468,Trong nước,local_case
+2022-03-16,258456,Trong nước,local_case
+2022-03-17,194712,Trong nước,local_case
+2022-03-18,196895,Trong nước,local_case
+2022-03-19,180423,Trong nước,local_case
+2022-03-20,166205,Trong nước,local_case
+2022-03-21,20106,Trong nước,local_case
+2022-03-22,247659,Trong nước,local_case
+2022-03-23,140832,Trong nước,local_case
+2022-03-24,119316,Trong nước,local_case
+2022-03-25,158710,Trong nước,local_case
+2022-03-26,158303,Trong nước,local_case
+2022-03-27,91916,Trong nước,local_case
+2022-03-28,83373,Trong nước,local_case
+2022-03-29,111638,Trong nước,local_case
+2022-03-30,85759,Trong nước,local_case
+2022-03-31,92344,Trong nước,local_case
+2022-04-01,86053,Trong nước,local_case
+2022-04-02,65616,Trong nước,local_case
+2022-04-03,102046,Trong nước,local_case
+2022-04-04,48715,Trong nước,local_case
+2022-04-05,53983,Trong nước,local_case
+2022-04-06,58424,Trong nước,local_case
+2022-04-07,90226,Trong nước,local_case
+2022-04-08,64533,Trong nước,local_case
+2022-04-09,34138,Trong nước,local_case
+2022-04-10,28307,Trong nước,local_case
+2022-04-11,51921,Trong nước,local_case
+2022-04-12,22804,Trong nước,local_case
+2022-04-13,24623,Trong nước,local_case
+2022-04-14,23012,Trong nước,local_case
+2022-04-15,73934,Trong nước,local_case
+2022-04-16,23354,Trong nước,local_case
+2022-04-17,14660,Trong nước,local_case
+2022-04-18,43271,Trong nước,local_case
+2022-04-19,13500,Trong nước,local_case
+2022-04-20,13271,Trong nước,local_case
+2022-04-21,30574,Trong nước,local_case
+2022-04-22,11160,Trong nước,local_case
+2022-04-23,10365,Trong nước,local_case
+2022-04-24,8812,Trong nước,local_case
+2022-04-25,8270,Trong nước,local_case
+2022-04-26,8431,Trong nước,local_case
+2022-04-27,11313,Trong nước,local_case
+2022-04-28,7116,Trong nước,local_case
+2022-04-29,6068,Trong nước,local_case
+2022-04-30,5109,Trong nước,local_case
+2022-05-01,3717,Trong nước,local_case
+2022-05-02,3122,Trong nước,local_case
+2022-05-03,2709,Trong nước,local_case
+2022-05-04,3088,Trong nước,local_case
+2022-05-05,4305,Trong nước,local_case
+2022-05-06,3819,Trong nước,local_case
+2022-05-07,3345,Trong nước,local_case
+2022-05-08,2268,Trong nước,local_case
+2022-05-09,2175,Trong nước,local_case
+2022-05-10,2854,Trong nước,local_case
+2022-05-11,2758,Trong nước,local_case
+2022-05-12,6499,Trong nước,local_case
+2022-05-13,2669,Trong nước,local_case
+2022-05-14,1895,Trong nước,local_case
+2022-05-15,1594,Trong nước,local_case
+2022-05-16,1548,Trong nước,local_case
+2022-05-17,1785,Trong nước,local_case
+2022-05-18,1830,Trong nước,local_case
+2022-05-19,2727,Trong nước,local_case
+2022-05-20,1587,Trong nước,local_case
+2022-05-21,1457,Trong nước,local_case
+2022-05-22,1319,Trong nước,local_case
+2022-05-23,1179,Trong nước,local_case
+2022-05-24,1322,Trong nước,local_case
+2022-05-25,1344,Trong nước,local_case
+2022-05-26,1275,Trong nước,local_case
+2022-05-27,1239,Trong nước,local_case
+2022-05-28,1114,Trong nước,local_case
+2022-05-29,890,Trong nước,local_case
+2022-05-30,1118,Trong nước,local_case
+2022-05-31,1010,Trong nước,local_case
+2022-06-01,1047,Trong nước,local_case
+2022-06-02,2208,Trong nước,local_case
+2022-06-03,1039,Trong nước,local_case
+2022-06-04,881,Trong nước,local_case
+2022-06-05,685,Trong nước,local_case
+2022-06-06,802,Trong nước,local_case
+2022-06-07,960,Trong nước,local_case
+2022-06-08,913,Trong nước,local_case
+2022-06-09,799,Trong nước,local_case
+2022-06-10,961,Trong nước,local_case
+2022-06-11,1563,Trong nước,local_case
+2022-06-12,568,Trong nước,local_case
+2022-06-13,616,Trong nước,local_case
+2022-06-14,856,Trong nước,local_case
+2022-06-15,866,Trong nước,local_case
+2022-06-16,774,Trong nước,local_case
+2022-06-17,1483,Trong nước,local_case
+2022-06-18,699,Trong nước,local_case
+2022-06-19,533,Trong nước,local_case
+2022-06-20,520,Trong nước,local_case
+2022-06-21,748,Trong nước,local_case
+2022-06-22,946,Trong nước,local_case
+2022-06-23,740,Trong nước,local_case
+2022-06-24,1639,Trong nước,local_case
+2022-06-25,657,Trong nước,local_case
+2022-06-26,557,Trong nước,local_case
+2022-06-27,637,Trong nước,local_case
+2022-06-28,769,Trong nước,local_case
+2022-06-29,777,Trong nước,local_case
+2022-06-30,839,Trong nước,local_case
+2022-07-01,927,Trong nước,local_case
+2022-07-02,730,Trong nước,local_case
+2022-07-03,511,Trong nước,local_case
+2022-07-04,685,Trong nước,local_case
+2022-07-05,989,Trong nước,local_case
+2022-07-06,913,Trong nước,local_case
+2022-07-07,913,Trong nước,local_case
+2022-07-08,800,Trong nước,local_case
+2022-07-09,1406,Trong nước,local_case
+2022-07-10,465,Trong nước,local_case
+2022-07-11,568,Trong nước,local_case
+2022-07-12,873,Trong nước,local_case
+2022-07-13,1001,Trong nước,local_case
+2022-07-14,932,Trong nước,local_case
+2022-07-15,956,Trong nước,local_case
+2022-07-16,705,Trong nước,local_case
+2022-07-17,745,Trong nước,local_case
+2022-07-18,840,Trong nước,local_case
+2022-07-19,1085,Trong nước,local_case
+2022-07-20,1161,Trong nước,local_case
+2022-07-21,1292,Trong nước,local_case
+2022-07-22,1142,Trong nước,local_case
+2022-07-23,1071,Trong nước,local_case
+2022-07-24,748,Trong nước,local_case
+2022-07-25,896,Trong nước,local_case
+2022-07-26,1460,Trong nước,local_case
+2022-07-27,2672,Trong nước,local_case
+2022-07-28,1697,Trong nước,local_case
+2022-07-29,1803,Trong nước,local_case
+2022-07-30,1668,Trong nước,local_case
+2022-07-31,1477,Trong nước,local_case
+2022-08-01,1377,Trong nước,local_case
+2022-08-02,2000,Trong nước,local_case
+2022-08-03,2096,Trong nước,local_case
+2022-08-04,202008,Trong nước,local_case
+2022-08-05,2074,Trong nước,local_case
+2022-08-06,1609,Trong nước,local_case
+2022-08-07,1381,Trong nước,local_case
+2022-08-08,1705,Trong nước,local_case
+2022-08-09,2340,Trong nước,local_case
+2022-08-10,2010,Trong nước,local_case
+2022-08-11,6775,Trong nước,local_case
+2022-08-12,2192,Trong nước,local_case
+2022-08-13,1815,Trong nước,local_case
+2022-08-14,0,Trong nước,local_case
+2022-08-15,1695,Trong nước,local_case
+2022-08-16,2983,Trong nước,local_case
+2022-08-17,2814,Trong nước,local_case
+2022-08-18,3295,Trong nước,local_case
+2022-08-19,2983,Trong nước,local_case
+2022-08-20,2704,Trong nước,local_case
+2022-08-21,1561,Trong nước,local_case
+2022-08-22,2197,Trong nước,local_case
+2022-08-23,3195,Trong nước,local_case
+2022-08-24,3591,Trong nước,local_case
+2022-08-25,3342,Trong nước,local_case
+2022-08-26,3195,Trong nước,local_case
+2022-08-27,2197,Trong nước,local_case
+2022-08-28,1705,Trong nước,local_case
+2022-08-29,2409,Trong nước,local_case
+2022-08-30,3241,Trong nước,local_case
+2022-08-31,2727,Trong nước,local_case
+2022-09-01,52,Trong nước,local_case
+2022-09-02,1548,Trong nước,local_case
+2022-09-03,1595,Trong nước,local_case
+2022-09-04,1390,Trong nước,local_case
+2022-09-05,2161,Trong nước,local_case
+2022-09-06,3694,Trong nước,local_case
+2022-09-07,3878,Trong nước,local_case
+2022-09-08,3191,Trong nước,local_case
+2022-09-09,3644,Trong nước,local_case
+2022-09-10,2498,Trong nước,local_case
+2022-09-11,1643,Trong nước,local_case
+2022-09-12,2013,Trong nước,local_case
+2022-09-13,3301,Trong nước,local_case
+2022-09-14,3107,Trong nước,local_case
+2022-09-15,2963,Trong nước,local_case
+2022-09-16,3080,Trong nước,local_case
+2022-09-17,2479,Trong nước,local_case
+2022-09-18,1891,Trong nước,local_case
+2022-09-19,1778,Trong nước,local_case
+2022-09-20,3177,Trong nước,local_case
+2022-09-21,2287,Trong nước,local_case
+2022-09-22,1928,Trong nước,local_case
+2022-09-23,2545,Trong nước,local_case
+2022-09-24,1176,Trong nước,local_case
+2022-09-25,961,Trong nước,local_case
+2022-09-26,1432,Trong nước,local_case
+2022-09-27,1585,Trong nước,local_case
+2022-09-28,1587,Trong nước,local_case
+2022-09-29,978,Trong nước,local_case
+2022-09-30,1470,Trong nước,local_case
+2022-10-01,671,Trong nước,local_case
+2022-10-02,490,Trong nước,local_case
+2022-10-03,796,Trong nước,local_case
+2022-10-04,1020,Trong nước,local_case
+2022-10-05,1194,Trong nước,local_case
+2022-10-06,1130,Trong nước,local_case
+2022-10-07,702,Trong nước,local_case
+2022-10-08,682,Trong nước,local_case
+2022-10-09,371,Trong nước,local_case
+2022-10-10,1045,Trong nước,local_case
+2022-10-11,1226,Trong nước,local_case
+2022-10-12,1194,Trong nước,local_case
+2022-10-13,1069,Trong nước,local_case
+2022-10-14,589,Trong nước,local_case
+2022-10-15,732,Trong nước,local_case
+2022-10-16,325,Trong nước,local_case
+2022-10-17,673,Trong nước,local_case
+2022-10-18,622,Trong nước,local_case
+2022-10-19,1336,Trong nước,local_case
+2022-10-20,541,Trong nước,local_case
+2022-10-21,582,Trong nước,local_case
+2022-10-22,475,Trong nước,local_case
+2022-10-23,158,Trong nước,local_case
+2022-10-24,546,Trong nước,local_case
+2022-10-25,514,Trong nước,local_case
+2022-10-26,826,Trong nước,local_case
+2022-10-27,484,Trong nước,local_case
+2022-10-28,2548,Trong nước,local_case
+2022-10-29,263,Trong nước,local_case
+2022-10-30,304,Trong nước,local_case
+2022-10-31,410,Trong nước,local_case
+2022-11-01,449,Trong nước,local_case
+2022-11-02,756,Trong nước,local_case
+2022-11-03,819,Trong nước,local_case
+2022-11-04,339,Trong nước,local_case
+2022-11-05,359,Trong nước,local_case
+2022-11-06,241,Trong nước,local_case
+2022-11-07,365,Trong nước,local_case
+2022-11-08,442,Trong nước,local_case
+2022-11-09,468,Trong nước,local_case
+2022-11-10,416,Trong nước,local_case
+2022-11-11,630,Trong nước,local_case
+2022-11-12,277,Trong nước,local_case
+2022-11-13,242,Trong nước,local_case
+2022-11-14,204,Trong nước,local_case
+2022-11-15,580,Trong nước,local_case
+2022-11-16,502,Trong nước,local_case
+2022-11-17,509,Trong nước,local_case
+2022-11-18,435,Trong nước,local_case
+2022-11-19,259,Trong nước,local_case
+2022-11-20,274,Trong nước,local_case
+2022-11-21,370,Trong nước,local_case
+2022-11-22,316,Trong nước,local_case
+2022-11-23,546,Trong nước,local_case
+2022-11-24,489,Trong nước,local_case
+2022-11-25,574,Trong nước,local_case
+2022-11-26,427,Trong nước,local_case
+2022-11-27,358,Trong nước,local_case
+2022-11-28,333,Trong nước,local_case
+2022-11-29,558,Trong nước,local_case
+2022-11-30,485,Trong nước,local_case
+2022-12-01,581,Trong nước,local_case
+2022-12-02,635,Trong nước,local_case
+2022-12-03,393,Trong nước,local_case
+2022-12-04,204,Trong nước,local_case
+2022-12-05,427,Trong nước,local_case
+2022-12-06,362,Trong nước,local_case
+2022-12-07,500,Trong nước,local_case
+2022-12-08,528,Trong nước,local_case
+2022-12-09,496,Trong nước,local_case
+2022-12-10,408,Trong nước,local_case
+2022-12-11,194,Trong nước,local_case
+2022-12-12,383,Trong nước,local_case
+2022-12-13,366,Trong nước,local_case
+2022-12-14,320,Trong nước,local_case
+2022-12-15,389,Trong nước,local_case
+2022-12-16,333,Trong nước,local_case
+2022-12-17,319,Trong nước,local_case
+2022-12-18,177,Trong nước,local_case
+2022-12-19,234,Trong nước,local_case
+2022-12-20,204,Trong nước,local_case
+2022-12-21,200,Trong nước,local_case
+2022-12-22,213,Trong nước,local_case
+2022-12-23,312,Trong nước,local_case
+2022-12-24,107,Trong nước,local_case
+2022-12-25,71,Trong nước,local_case
+2022-12-26,163,Trong nước,local_case
+2022-12-27,211,Trong nước,local_case
+2022-12-28,132,Trong nước,local_case
+2022-12-29,234,Trong nước,local_case
+2022-12-30,131,Trong nước,local_case
+2022-12-31,86,Trong nước,local_case
+2023-01-01,53,Trong nước,local_case
+2023-01-02,52,Trong nước,local_case
+2023-01-03,71,Trong nước,local_case
+2023-01-04,83,Trong nước,local_case
+2023-01-05,80,Trong nước,local_case
+2023-01-06,75,Trong nước,local_case
+2023-01-07,64,Trong nước,local_case
+2023-01-08,52,Trong nước,local_case
+2023-01-09,71,Trong nước,local_case
+2023-01-10,77,Trong nước,local_case
+2023-01-11,35,Trong nước,local_case
+2023-01-12,88,Trong nước,local_case
+2023-01-13,55,Trong nước,local_case
+2023-01-14,29,Trong nước,local_case
+2023-01-15,22,Trong nước,local_case
+2023-01-16,27,Trong nước,local_case
+2023-01-17,46,Trong nước,local_case
+2023-01-18,41,Trong nước,local_case
+2023-01-19,0,Trong nước,local_case
+2020-01-23,0,Tử vong,death_case
+2020-01-24,0,Tử vong,death_case
+2020-01-25,0,Tử vong,death_case
+2020-01-26,0,Tử vong,death_case
+2020-01-27,0,Tử vong,death_case
+2020-01-28,0,Tử vong,death_case
+2020-01-29,0,Tử vong,death_case
+2020-01-30,0,Tử vong,death_case
+2020-01-31,0,Tử vong,death_case
+2020-02-01,0,Tử vong,death_case
+2020-02-02,0,Tử vong,death_case
+2020-02-03,0,Tử vong,death_case
+2020-02-04,0,Tử vong,death_case
+2020-02-05,0,Tử vong,death_case
+2020-02-06,0,Tử vong,death_case
+2020-02-07,0,Tử vong,death_case
+2020-02-08,0,Tử vong,death_case
+2020-02-09,0,Tử vong,death_case
+2020-02-10,0,Tử vong,death_case
+2020-02-11,0,Tử vong,death_case
+2020-02-12,0,Tử vong,death_case
+2020-02-13,0,Tử vong,death_case
+2020-02-14,0,Tử vong,death_case
+2020-02-15,0,Tử vong,death_case
+2020-02-16,0,Tử vong,death_case
+2020-02-17,0,Tử vong,death_case
+2020-02-18,0,Tử vong,death_case
+2020-02-19,0,Tử vong,death_case
+2020-03-06,0,Tử vong,death_case
+2020-03-07,0,Tử vong,death_case
+2020-03-08,0,Tử vong,death_case
+2020-03-09,0,Tử vong,death_case
+2020-03-10,0,Tử vong,death_case
+2020-03-11,0,Tử vong,death_case
+2020-03-12,0,Tử vong,death_case
+2020-03-13,0,Tử vong,death_case
+2020-03-14,0,Tử vong,death_case
+2020-03-15,0,Tử vong,death_case
+2020-03-16,0,Tử vong,death_case
+2020-03-17,0,Tử vong,death_case
+2020-03-18,0,Tử vong,death_case
+2020-03-19,0,Tử vong,death_case
+2020-03-20,0,Tử vong,death_case
+2020-03-21,0,Tử vong,death_case
+2020-03-22,0,Tử vong,death_case
+2020-03-23,0,Tử vong,death_case
+2020-03-24,0,Tử vong,death_case
+2020-03-25,0,Tử vong,death_case
+2020-03-26,0,Tử vong,death_case
+2020-03-27,0,Tử vong,death_case
+2020-03-28,0,Tử vong,death_case
+2020-03-29,0,Tử vong,death_case
+2020-03-30,0,Tử vong,death_case
+2020-03-31,0,Tử vong,death_case
+2020-04-01,0,Tử vong,death_case
+2020-04-02,0,Tử vong,death_case
+2020-04-03,0,Tử vong,death_case
+2020-04-04,0,Tử vong,death_case
+2020-04-05,0,Tử vong,death_case
+2020-04-06,0,Tử vong,death_case
+2020-04-07,0,Tử vong,death_case
+2020-04-08,0,Tử vong,death_case
+2020-04-09,0,Tử vong,death_case
+2020-04-10,0,Tử vong,death_case
+2020-04-11,0,Tử vong,death_case
+2020-04-12,0,Tử vong,death_case
+2020-04-13,0,Tử vong,death_case
+2020-04-14,0,Tử vong,death_case
+2020-04-15,0,Tử vong,death_case
+2020-04-16,0,Tử vong,death_case
+2020-04-17,0,Tử vong,death_case
+2020-04-18,0,Tử vong,death_case
+2020-04-19,0,Tử vong,death_case
+2020-04-20,0,Tử vong,death_case
+2020-04-21,0,Tử vong,death_case
+2020-04-22,0,Tử vong,death_case
+2020-04-23,0,Tử vong,death_case
+2020-04-24,0,Tử vong,death_case
+2020-04-25,0,Tử vong,death_case
+2020-04-26,0,Tử vong,death_case
+2020-04-27,0,Tử vong,death_case
+2020-04-28,0,Tử vong,death_case
+2020-04-29,0,Tử vong,death_case
+2020-04-30,0,Tử vong,death_case
+2020-05-01,0,Tử vong,death_case
+2020-05-03,0,Tử vong,death_case
+2020-05-04,0,Tử vong,death_case
+2020-05-05,0,Tử vong,death_case
+2020-05-06,0,Tử vong,death_case
+2020-05-07,0,Tử vong,death_case
+2020-05-08,0,Tử vong,death_case
+2020-05-09,0,Tử vong,death_case
+2020-05-10,0,Tử vong,death_case
+2020-05-11,0,Tử vong,death_case
+2020-05-12,0,Tử vong,death_case
+2020-05-13,0,Tử vong,death_case
+2020-05-14,0,Tử vong,death_case
+2020-05-15,0,Tử vong,death_case
+2020-05-16,0,Tử vong,death_case
+2020-05-17,0,Tử vong,death_case
+2020-05-18,0,Tử vong,death_case
+2020-05-19,0,Tử vong,death_case
+2020-05-20,0,Tử vong,death_case
+2020-05-21,0,Tử vong,death_case
+2020-05-22,0,Tử vong,death_case
+2020-05-23,0,Tử vong,death_case
+2020-05-24,0,Tử vong,death_case
+2020-05-25,0,Tử vong,death_case
+2020-05-26,0,Tử vong,death_case
+2020-05-27,0,Tử vong,death_case
+2020-05-28,0,Tử vong,death_case
+2020-05-29,0,Tử vong,death_case
+2020-05-30,0,Tử vong,death_case
+2020-05-31,0,Tử vong,death_case
+2020-06-01,0,Tử vong,death_case
+2020-06-02,1,Tử vong,death_case
+2020-06-03,0,Tử vong,death_case
+2020-06-04,0,Tử vong,death_case
+2020-06-05,0,Tử vong,death_case
+2020-06-06,0,Tử vong,death_case
+2020-06-07,0,Tử vong,death_case
+2020-06-08,0,Tử vong,death_case
+2020-06-09,0,Tử vong,death_case
+2020-06-10,0,Tử vong,death_case
+2020-06-11,0,Tử vong,death_case
+2020-06-12,0,Tử vong,death_case
+2020-06-13,0,Tử vong,death_case
+2020-06-14,0,Tử vong,death_case
+2020-06-15,0,Tử vong,death_case
+2020-06-16,0,Tử vong,death_case
+2020-06-17,0,Tử vong,death_case
+2020-06-18,0,Tử vong,death_case
+2020-06-19,0,Tử vong,death_case
+2020-06-20,0,Tử vong,death_case
+2020-06-21,0,Tử vong,death_case
+2020-06-22,0,Tử vong,death_case
+2020-06-23,0,Tử vong,death_case
+2020-06-24,0,Tử vong,death_case
+2020-06-25,0,Tử vong,death_case
+2020-06-26,0,Tử vong,death_case
+2020-06-27,0,Tử vong,death_case
+2020-06-28,0,Tử vong,death_case
+2020-06-29,0,Tử vong,death_case
+2020-06-30,0,Tử vong,death_case
+2020-07-01,0,Tử vong,death_case
+2020-07-02,0,Tử vong,death_case
+2020-07-03,0,Tử vong,death_case
+2020-07-04,0,Tử vong,death_case
+2020-07-06,0,Tử vong,death_case
+2020-07-07,0,Tử vong,death_case
+2020-07-08,0,Tử vong,death_case
+2020-07-09,0,Tử vong,death_case
+2020-07-10,0,Tử vong,death_case
+2020-07-11,0,Tử vong,death_case
+2020-07-12,0,Tử vong,death_case
+2020-07-13,0,Tử vong,death_case
+2020-07-14,0,Tử vong,death_case
+2020-07-15,0,Tử vong,death_case
+2020-07-16,0,Tử vong,death_case
+2020-07-17,0,Tử vong,death_case
+2020-07-18,0,Tử vong,death_case
+2020-07-19,0,Tử vong,death_case
+2020-07-20,0,Tử vong,death_case
+2020-07-21,0,Tử vong,death_case
+2020-07-22,0,Tử vong,death_case
+2020-07-23,0,Tử vong,death_case
+2020-07-24,0,Tử vong,death_case
+2020-07-25,0,Tử vong,death_case
+2020-07-26,0,Tử vong,death_case
+2020-07-27,0,Tử vong,death_case
+2020-07-28,0,Tử vong,death_case
+2020-07-29,0,Tử vong,death_case
+2020-07-30,0,Tử vong,death_case
+2020-07-31,4,Tử vong,death_case
+2020-08-01,1,Tử vong,death_case
+2020-08-02,3,Tử vong,death_case
+2020-08-03,0,Tử vong,death_case
+2020-08-04,2,Tử vong,death_case
+2020-08-05,0,Tử vong,death_case
+2020-08-06,2,Tử vong,death_case
+2020-08-07,0,Tử vong,death_case
+2020-08-08,0,Tử vong,death_case
+2020-08-09,1,Tử vong,death_case
+2020-08-10,4,Tử vong,death_case
+2020-08-11,1,Tử vong,death_case
+2020-08-12,1,Tử vong,death_case
+2020-08-13,4,Tử vong,death_case
+2020-08-14,0,Tử vong,death_case
+2020-08-15,2,Tử vong,death_case
+2020-08-16,1,Tử vong,death_case
+2020-08-17,0,Tử vong,death_case
+2020-08-18,1,Tử vong,death_case
+2020-08-19,0,Tử vong,death_case
+2020-08-20,0,Tử vong,death_case
+2020-08-21,0,Tử vong,death_case
+2020-08-22,1,Tử vong,death_case
+2020-08-23,1,Tử vong,death_case
+2020-08-24,0,Tử vong,death_case
+2020-08-25,0,Tử vong,death_case
+2020-08-26,2,Tử vong,death_case
+2020-08-27,1,Tử vong,death_case
+2020-08-28,0,Tử vong,death_case
+2020-08-29,2,Tử vong,death_case
+2020-08-30,0,Tử vong,death_case
+2020-08-31,0,Tử vong,death_case
+2020-09-01,0,Tử vong,death_case
+2020-09-02,0,Tử vong,death_case
+2020-09-03,1,Tử vong,death_case
+2020-09-04,0,Tử vong,death_case
+2020-09-05,0,Tử vong,death_case
+2020-09-06,0,Tử vong,death_case
+2020-09-07,0,Tử vong,death_case
+2020-09-08,0,Tử vong,death_case
+2020-09-09,0,Tử vong,death_case
+2020-09-10,0,Tử vong,death_case
+2020-09-11,0,Tử vong,death_case
+2020-09-12,0,Tử vong,death_case
+2020-09-13,0,Tử vong,death_case
+2020-09-14,0,Tử vong,death_case
+2020-09-15,0,Tử vong,death_case
+2020-09-16,0,Tử vong,death_case
+2020-09-17,0,Tử vong,death_case
+2020-09-18,0,Tử vong,death_case
+2020-09-19,0,Tử vong,death_case
+2020-09-20,0,Tử vong,death_case
+2020-09-21,0,Tử vong,death_case
+2020-09-22,0,Tử vong,death_case
+2020-09-23,0,Tử vong,death_case
+2020-09-24,0,Tử vong,death_case
+2020-09-25,0,Tử vong,death_case
+2020-09-26,0,Tử vong,death_case
+2020-09-27,0,Tử vong,death_case
+2020-09-28,0,Tử vong,death_case
+2020-09-29,0,Tử vong,death_case
+2020-09-30,0,Tử vong,death_case
+2020-10-01,0,Tử vong,death_case
+2020-10-02,0,Tử vong,death_case
+2020-10-03,0,Tử vong,death_case
+2020-10-04,0,Tử vong,death_case
+2020-10-05,0,Tử vong,death_case
+2020-10-06,0,Tử vong,death_case
+2020-10-07,0,Tử vong,death_case
+2020-10-08,0,Tử vong,death_case
+2020-10-09,0,Tử vong,death_case
+2020-10-10,0,Tử vong,death_case
+2020-10-11,0,Tử vong,death_case
+2020-10-12,0,Tử vong,death_case
+2020-10-13,0,Tử vong,death_case
+2020-10-14,0,Tử vong,death_case
+2020-10-15,0,Tử vong,death_case
+2020-10-16,0,Tử vong,death_case
+2020-10-17,0,Tử vong,death_case
+2020-10-18,0,Tử vong,death_case
+2020-10-19,0,Tử vong,death_case
+2020-10-20,0,Tử vong,death_case
+2020-10-21,0,Tử vong,death_case
+2020-10-22,0,Tử vong,death_case
+2020-10-23,0,Tử vong,death_case
+2020-10-24,0,Tử vong,death_case
+2020-10-25,0,Tử vong,death_case
+2020-10-26,0,Tử vong,death_case
+2020-10-27,0,Tử vong,death_case
+2020-10-28,0,Tử vong,death_case
+2020-10-29,0,Tử vong,death_case
+2020-10-30,0,Tử vong,death_case
+2020-10-31,0,Tử vong,death_case
+2020-11-01,0,Tử vong,death_case
+2020-11-02,0,Tử vong,death_case
+2020-11-03,0,Tử vong,death_case
+2020-11-04,0,Tử vong,death_case
+2020-11-05,0,Tử vong,death_case
+2020-11-06,0,Tử vong,death_case
+2020-11-07,0,Tử vong,death_case
+2020-11-08,0,Tử vong,death_case
+2020-11-09,0,Tử vong,death_case
+2020-11-10,0,Tử vong,death_case
+2020-11-11,0,Tử vong,death_case
+2020-11-12,0,Tử vong,death_case
+2020-11-13,0,Tử vong,death_case
+2020-11-14,0,Tử vong,death_case
+2020-11-15,0,Tử vong,death_case
+2020-11-16,0,Tử vong,death_case
+2020-11-17,0,Tử vong,death_case
+2020-11-18,0,Tử vong,death_case
+2020-11-19,0,Tử vong,death_case
+2020-11-20,0,Tử vong,death_case
+2020-11-21,0,Tử vong,death_case
+2020-11-22,0,Tử vong,death_case
+2020-11-23,0,Tử vong,death_case
+2020-11-24,0,Tử vong,death_case
+2020-11-25,0,Tử vong,death_case
+2020-11-26,0,Tử vong,death_case
+2020-11-27,0,Tử vong,death_case
+2020-11-28,0,Tử vong,death_case
+2020-11-29,0,Tử vong,death_case
+2020-11-30,0,Tử vong,death_case
+2020-12-01,0,Tử vong,death_case
+2020-12-02,0,Tử vong,death_case
+2020-12-03,0,Tử vong,death_case
+2020-12-04,0,Tử vong,death_case
+2020-12-05,0,Tử vong,death_case
+2020-12-06,0,Tử vong,death_case
+2020-12-07,0,Tử vong,death_case
+2020-12-08,0,Tử vong,death_case
+2020-12-09,0,Tử vong,death_case
+2020-12-10,0,Tử vong,death_case
+2020-12-11,0,Tử vong,death_case
+2020-12-12,0,Tử vong,death_case
+2020-12-13,0,Tử vong,death_case
+2020-12-14,0,Tử vong,death_case
+2020-12-15,0,Tử vong,death_case
+2020-12-16,0,Tử vong,death_case
+2020-12-17,0,Tử vong,death_case
+2020-12-18,0,Tử vong,death_case
+2020-12-19,0,Tử vong,death_case
+2020-12-20,0,Tử vong,death_case
+2020-12-21,0,Tử vong,death_case
+2020-12-22,0,Tử vong,death_case
+2020-12-23,0,Tử vong,death_case
+2020-12-24,0,Tử vong,death_case
+2020-12-25,0,Tử vong,death_case
+2020-12-26,0,Tử vong,death_case
+2020-12-27,0,Tử vong,death_case
+2020-12-28,0,Tử vong,death_case
+2020-12-29,0,Tử vong,death_case
+2020-12-30,0,Tử vong,death_case
+2020-12-31,0,Tử vong,death_case
+2021-01-01,0,Tử vong,death_case
+2021-01-02,0,Tử vong,death_case
+2021-01-03,0,Tử vong,death_case
+2021-01-04,0,Tử vong,death_case
+2021-01-05,0,Tử vong,death_case
+2021-01-06,0,Tử vong,death_case
+2021-01-07,0,Tử vong,death_case
+2021-01-08,0,Tử vong,death_case
+2021-01-09,0,Tử vong,death_case
+2021-01-10,0,Tử vong,death_case
+2021-01-11,0,Tử vong,death_case
+2021-01-12,0,Tử vong,death_case
+2021-01-13,0,Tử vong,death_case
+2021-01-14,0,Tử vong,death_case
+2021-01-15,0,Tử vong,death_case
+2021-01-16,0,Tử vong,death_case
+2021-01-17,0,Tử vong,death_case
+2021-01-18,0,Tử vong,death_case
+2021-01-19,0,Tử vong,death_case
+2021-01-20,0,Tử vong,death_case
+2021-01-21,0,Tử vong,death_case
+2021-01-22,0,Tử vong,death_case
+2021-01-23,0,Tử vong,death_case
+2021-01-24,0,Tử vong,death_case
+2021-01-25,0,Tử vong,death_case
+2021-01-26,0,Tử vong,death_case
+2021-01-27,0,Tử vong,death_case
+2021-01-28,0,Tử vong,death_case
+2021-01-29,0,Tử vong,death_case
+2021-01-30,0,Tử vong,death_case
+2021-01-31,0,Tử vong,death_case
+2021-02-01,0,Tử vong,death_case
+2021-02-02,0,Tử vong,death_case
+2021-02-03,0,Tử vong,death_case
+2021-02-04,0,Tử vong,death_case
+2021-02-05,0,Tử vong,death_case
+2021-02-06,0,Tử vong,death_case
+2021-02-07,0,Tử vong,death_case
+2021-02-08,0,Tử vong,death_case
+2021-02-09,0,Tử vong,death_case
+2021-02-10,0,Tử vong,death_case
+2021-02-11,0,Tử vong,death_case
+2021-02-12,0,Tử vong,death_case
+2021-02-13,0,Tử vong,death_case
+2021-02-14,0,Tử vong,death_case
+2021-02-15,0,Tử vong,death_case
+2021-02-16,0,Tử vong,death_case
+2021-02-17,0,Tử vong,death_case
+2021-02-18,0,Tử vong,death_case
+2021-02-19,0,Tử vong,death_case
+2021-02-20,0,Tử vong,death_case
+2021-02-21,0,Tử vong,death_case
+2021-02-22,0,Tử vong,death_case
+2021-02-23,0,Tử vong,death_case
+2021-02-24,0,Tử vong,death_case
+2021-02-25,0,Tử vong,death_case
+2021-02-26,0,Tử vong,death_case
+2021-02-27,0,Tử vong,death_case
+2021-02-28,0,Tử vong,death_case
+2021-03-01,0,Tử vong,death_case
+2021-03-02,0,Tử vong,death_case
+2021-03-03,0,Tử vong,death_case
+2021-03-04,0,Tử vong,death_case
+2021-03-05,0,Tử vong,death_case
+2021-03-06,0,Tử vong,death_case
+2021-03-07,0,Tử vong,death_case
+2021-03-08,0,Tử vong,death_case
+2021-03-09,0,Tử vong,death_case
+2021-03-10,0,Tử vong,death_case
+2021-03-11,0,Tử vong,death_case
+2021-03-12,0,Tử vong,death_case
+2021-03-13,0,Tử vong,death_case
+2021-03-14,0,Tử vong,death_case
+2021-03-15,0,Tử vong,death_case
+2021-03-16,0,Tử vong,death_case
+2021-03-17,0,Tử vong,death_case
+2021-03-18,0,Tử vong,death_case
+2021-03-19,0,Tử vong,death_case
+2021-03-20,0,Tử vong,death_case
+2021-03-21,0,Tử vong,death_case
+2021-03-22,0,Tử vong,death_case
+2021-03-23,0,Tử vong,death_case
+2021-03-24,0,Tử vong,death_case
+2021-03-25,0,Tử vong,death_case
+2021-03-26,0,Tử vong,death_case
+2021-03-27,0,Tử vong,death_case
+2021-03-28,0,Tử vong,death_case
+2021-03-29,0,Tử vong,death_case
+2021-03-30,0,Tử vong,death_case
+2021-03-31,0,Tử vong,death_case
+2021-04-01,0,Tử vong,death_case
+2021-04-02,0,Tử vong,death_case
+2021-04-03,0,Tử vong,death_case
+2021-04-04,0,Tử vong,death_case
+2021-04-05,0,Tử vong,death_case
+2021-04-06,0,Tử vong,death_case
+2021-04-07,0,Tử vong,death_case
+2021-04-08,0,Tử vong,death_case
+2021-04-09,0,Tử vong,death_case
+2021-04-10,0,Tử vong,death_case
+2021-04-11,0,Tử vong,death_case
+2021-04-12,0,Tử vong,death_case
+2021-04-13,0,Tử vong,death_case
+2021-04-14,0,Tử vong,death_case
+2021-04-15,0,Tử vong,death_case
+2021-04-16,0,Tử vong,death_case
+2021-04-17,0,Tử vong,death_case
+2021-04-18,0,Tử vong,death_case
+2021-04-19,0,Tử vong,death_case
+2021-04-20,0,Tử vong,death_case
+2021-04-21,0,Tử vong,death_case
+2021-04-22,0,Tử vong,death_case
+2021-04-23,0,Tử vong,death_case
+2021-04-24,0,Tử vong,death_case
+2021-04-25,0,Tử vong,death_case
+2021-04-26,0,Tử vong,death_case
+2021-04-27,0,Tử vong,death_case
+2021-04-28,0,Tử vong,death_case
+2021-04-29,0,Tử vong,death_case
+2021-04-30,0,Tử vong,death_case
+2021-05-01,0,Tử vong,death_case
+2021-05-02,0,Tử vong,death_case
+2021-05-03,0,Tử vong,death_case
+2021-05-04,0,Tử vong,death_case
+2021-05-05,0,Tử vong,death_case
+2021-05-06,0,Tử vong,death_case
+2021-05-07,0,Tử vong,death_case
+2021-05-08,0,Tử vong,death_case
+2021-05-09,0,Tử vong,death_case
+2021-05-10,0,Tử vong,death_case
+2021-05-11,0,Tử vong,death_case
+2021-05-12,0,Tử vong,death_case
+2021-05-13,0,Tử vong,death_case
+2021-05-14,0,Tử vong,death_case
+2021-05-15,1,Tử vong,death_case
+2021-05-16,0,Tử vong,death_case
+2021-05-17,1,Tử vong,death_case
+2021-05-18,0,Tử vong,death_case
+2021-05-19,0,Tử vong,death_case
+2021-05-20,2,Tử vong,death_case
+2021-05-21,2,Tử vong,death_case
+2021-05-22,0,Tử vong,death_case
+2021-05-23,1,Tử vong,death_case
+2021-05-24,2,Tử vong,death_case
+2021-05-25,0,Tử vong,death_case
+2021-05-26,1,Tử vong,death_case
+2021-05-27,1,Tử vong,death_case
+2021-05-28,1,Tử vong,death_case
+2021-05-29,0,Tử vong,death_case
+2021-05-30,0,Tử vong,death_case
+2021-05-31,0,Tử vong,death_case
+2021-06-01,0,Tử vong,death_case
+2021-06-02,0,Tử vong,death_case
+2021-06-03,0,Tử vong,death_case
+2021-06-04,4,Tử vong,death_case
+2021-06-05,1,Tử vong,death_case
+2021-06-06,0,Tử vong,death_case
+2021-06-07,3,Tử vong,death_case
+2021-06-08,0,Tử vong,death_case
+2021-06-09,0,Tử vong,death_case
+2021-06-10,2,Tử vong,death_case
+2021-06-11,1,Tử vong,death_case
+2021-06-12,1,Tử vong,death_case
+2021-06-13,0,Tử vong,death_case
+2021-06-14,2,Tử vong,death_case
+2021-06-15,0,Tử vong,death_case
+2021-06-16,0,Tử vong,death_case
+2021-06-17,0,Tử vong,death_case
+2021-06-18,2,Tử vong,death_case
+2021-06-19,3,Tử vong,death_case
+2021-06-20,1,Tử vong,death_case
+2021-06-21,3,Tử vong,death_case
+2021-06-22,0,Tử vong,death_case
+2021-06-23,1,Tử vong,death_case
+2021-06-24,3,Tử vong,death_case
+2021-06-25,2,Tử vong,death_case
+2021-06-26,0,Tử vong,death_case
+2021-06-27,3,Tử vong,death_case
+2021-06-28,0,Tử vong,death_case
+2021-06-29,4,Tử vong,death_case
+2021-06-30,3,Tử vong,death_case
+2021-07-01,0,Tử vong,death_case
+2021-07-02,5,Tử vong,death_case
+2021-07-03,0,Tử vong,death_case
+2021-07-04,9,Tử vong,death_case
+2021-07-05,5,Tử vong,death_case
+2021-07-06,7,Tử vong,death_case
+2021-07-07,8,Tử vong,death_case
+2021-07-08,12,Tử vong,death_case
+2021-07-09,6,Tử vong,death_case
+2021-07-10,9,Tử vong,death_case
+2021-07-11,18,Tử vong,death_case
+2021-07-12,25,Tử vong,death_case
+2021-07-13,20,Tử vong,death_case
+2021-07-14,14,Tử vong,death_case
+2021-07-15,3,Tử vong,death_case
+2021-07-16,1,Tử vong,death_case
+2021-07-17,29,Tử vong,death_case
+2021-07-18,1,Tử vong,death_case
+2021-07-19,79,Tử vong,death_case
+2021-07-20,32,Tử vong,death_case
+2021-07-21,0,Tử vong,death_case
+2021-07-22,0,Tử vong,death_case
+2021-07-23,0,Tử vong,death_case
+2021-07-24,0,Tử vong,death_case
+2021-07-25,154,Tử vong,death_case
+2021-07-26,0,Tử vong,death_case
+2021-07-27,0,Tử vong,death_case
+2021-07-28,106,Tử vong,death_case
+2021-07-29,233,Tử vong,death_case
+2021-07-30,298,Tử vong,death_case
+2021-07-31,145,Tử vong,death_case
+2021-08-01,0,Tử vong,death_case
+2021-08-02,389,Tử vong,death_case
+2021-08-03,376,Tử vong,death_case
+2021-08-04,256,Tử vong,death_case
+2021-08-05,393,Tử vong,death_case
+2021-08-06,296,Tử vong,death_case
+2021-08-07,0,Tử vong,death_case
+2021-08-08,381,Tử vong,death_case
+2021-08-09,360,Tử vong,death_case
+2021-08-10,388,Tử vong,death_case
+2021-08-11,342,Tử vong,death_case
+2021-08-12,326,Tử vong,death_case
+2021-08-13,275,Tử vong,death_case
+2021-08-14,349,Tử vong,death_case
+2021-08-15,337,Tử vong,death_case
+2021-08-16,367,Tử vong,death_case
+2021-08-17,331,Tử vong,death_case
+2021-08-18,298,Tử vong,death_case
+2021-08-19,380,Tử vong,death_case
+2021-08-20,390,Tử vong,death_case
+2021-08-21,0,Tử vong,death_case
+2021-08-22,737,Tử vong,death_case
+2021-08-23,389,Tử vong,death_case
+2021-08-24,348,Tử vong,death_case
+2021-08-25,335,Tử vong,death_case
+2021-08-26,318,Tử vong,death_case
+2021-08-27,386,Tử vong,death_case
+2021-08-28,352,Tử vong,death_case
+2021-08-29,344,Tử vong,death_case
+2021-08-30,315,Tử vong,death_case
+2021-08-31,0,Tử vong,death_case
+2021-09-01,803,Tử vong,death_case
+2021-09-02,271,Tử vong,death_case
+2021-09-03,308,Tử vong,death_case
+2021-09-04,347,Tử vong,death_case
+2021-09-05,281,Tử vong,death_case
+2021-09-06,311,Tử vong,death_case
+2021-09-07,316,Tử vong,death_case
+2021-09-08,424,Tử vong,death_case
+2021-09-09,345,Tử vong,death_case
+2021-09-10,275,Tử vong,death_case
+2021-09-11,273,Tử vong,death_case
+2021-09-12,261,Tử vong,death_case
+2021-09-13,381,Tử vong,death_case
+2021-09-14,276,Tử vong,death_case
+2021-09-15,250,Tử vong,death_case
+2021-09-16,239,Tử vong,death_case
+2021-09-17,212,Tử vong,death_case
+2021-09-18,220,Tử vong,death_case
+2021-09-19,233,Tử vong,death_case
+2021-09-20,215,Tử vong,death_case
+2021-09-21,240,Tử vong,death_case
+2021-09-22,236,Tử vong,death_case
+2021-09-23,236,Tử vong,death_case
+2021-09-24,203,Tử vong,death_case
+2021-09-25,180,Tử vong,death_case
+2021-09-26,184,Tử vong,death_case
+2021-09-27,174,Tử vong,death_case
+2021-09-28,178,Tử vong,death_case
+2021-09-29,162,Tử vong,death_case
+2021-09-30,203,Tử vong,death_case
+2021-10-01,136,Tử vong,death_case
+2021-10-02,164,Tử vong,death_case
+2021-10-03,114,Tử vong,death_case
+2021-10-04,130,Tử vong,death_case
+2021-10-05,134,Tử vong,death_case
+2021-10-06,119,Tử vong,death_case
+2021-10-07,125,Tử vong,death_case
+2021-10-08,114,Tử vong,death_case
+2021-10-09,105,Tử vong,death_case
+2021-10-10,113,Tử vong,death_case
+2021-10-11,115,Tử vong,death_case
+2021-10-12,93,Tử vong,death_case
+2021-10-13,106,Tử vong,death_case
+2021-10-14,81,Tử vong,death_case
+2021-10-15,93,Tử vong,death_case
+2021-10-16,88,Tử vong,death_case
+2021-10-17,63,Tử vong,death_case
+2021-10-18,75,Tử vong,death_case
+2021-10-19,75,Tử vong,death_case
+2021-10-20,72,Tử vong,death_case
+2021-10-21,71,Tử vong,death_case
+2021-10-22,56,Tử vong,death_case
+2021-10-23,77,Tử vong,death_case
+2021-10-24,53,Tử vong,death_case
+2021-10-25,65,Tử vong,death_case
+2021-10-26,64,Tử vong,death_case
+2021-10-27,54,Tử vong,death_case
+2021-10-28,54,Tử vong,death_case
+2021-10-29,56,Tử vong,death_case
+2021-10-30,64,Tử vong,death_case
+2021-10-31,53,Tử vong,death_case
+2021-11-01,48,Tử vong,death_case
+2021-11-02,74,Tử vong,death_case
+2021-11-03,78,Tử vong,death_case
+2021-11-04,59,Tử vong,death_case
+2021-11-05,70,Tử vong,death_case
+2021-11-06,58,Tử vong,death_case
+2021-11-07,61,Tử vong,death_case
+2021-11-08,67,Tử vong,death_case
+2021-11-09,88,Tử vong,death_case
+2021-11-10,79,Tử vong,death_case
+2021-11-11,84,Tử vong,death_case
+2021-11-12,81,Tử vong,death_case
+2021-11-13,88,Tử vong,death_case
+2021-11-14,64,Tử vong,death_case
+2021-11-15,101,Tử vong,death_case
+2021-11-16,87,Tử vong,death_case
+2021-11-17,67,Tử vong,death_case
+2021-11-18,139,Tử vong,death_case
+2021-11-19,102,Tử vong,death_case
+2021-11-20,107,Tử vong,death_case
+2021-11-21,126,Tử vong,death_case
+2021-11-22,140,Tử vong,death_case
+2021-11-23,167,Tử vong,death_case
+2021-11-24,125,Tử vong,death_case
+2021-11-25,164,Tử vong,death_case
+2021-11-26,137,Tử vong,death_case
+2021-11-27,148,Tử vong,death_case
+2021-11-28,190,Tử vong,death_case
+2021-11-29,173,Tử vong,death_case
+2021-11-30,197,Tử vong,death_case
+2021-12-01,196,Tử vong,death_case
+2021-12-02,210,Tử vong,death_case
+2021-12-03,200,Tử vong,death_case
+2021-12-04,203,Tử vong,death_case
+2021-12-05,199,Tử vong,death_case
+2021-12-06,223,Tử vong,death_case
+2021-12-07,217,Tử vong,death_case
+2021-12-08,230,Tử vong,death_case
+2021-12-09,256,Tử vong,death_case
+2021-12-10,216,Tử vong,death_case
+2021-12-11,209,Tử vong,death_case
+2021-12-12,228,Tử vong,death_case
+2021-12-13,242,Tử vong,death_case
+2021-12-14,252,Tử vong,death_case
+2021-12-15,283,Tử vong,death_case
+2021-12-16,241,Tử vong,death_case
+2021-12-17,246,Tử vong,death_case
+2021-12-18,248,Tử vong,death_case
+2021-12-19,215,Tử vong,death_case
+2021-12-20,225,Tử vong,death_case
+2021-12-21,250,Tử vong,death_case
+2021-12-22,210,Tử vong,death_case
+2021-12-23,280,Tử vong,death_case
+2021-12-24,235,Tử vong,death_case
+2021-12-25,241,Tử vong,death_case
+2021-12-26,207,Tử vong,death_case
+2021-12-27,204,Tử vong,death_case
+2021-12-28,214,Tử vong,death_case
+2021-12-29,245,Tử vong,death_case
+2021-12-30,291,Tử vong,death_case
+2021-12-31,226,Tử vong,death_case
+2022-01-01,216,Tử vong,death_case
+2022-01-02,221,Tử vong,death_case
+2022-01-03,190,Tử vong,death_case
+2022-01-04,224,Tử vong,death_case
+2022-01-05,229,Tử vong,death_case
+2022-01-06,170,Tử vong,death_case
+2022-01-07,233,Tử vong,death_case
+2022-01-08,240,Tử vong,death_case
+2022-01-09,202,Tử vong,death_case
+2022-01-10,212,Tử vong,death_case
+2022-01-11,256,Tử vong,death_case
+2022-01-12,177,Tử vong,death_case
+2022-01-13,206,Tử vong,death_case
+2022-01-14,171,Tử vong,death_case
+2022-01-15,139,Tử vong,death_case
+2022-01-16,129,Tử vong,death_case
+2022-01-17,179,Tử vong,death_case
+2022-01-18,184,Tử vong,death_case
+2022-01-19,142,Tử vong,death_case
+2022-01-20,152,Tử vong,death_case
+2022-01-21,177,Tử vong,death_case
+2022-01-22,153,Tử vong,death_case
+2022-01-23,123,Tử vong,death_case
+2022-01-24,165,Tử vong,death_case
+2022-01-25,126,Tử vong,death_case
+2022-01-26,155,Tử vong,death_case
+2022-01-27,126,Tử vong,death_case
+2022-01-28,141,Tử vong,death_case
+2022-01-29,115,Tử vong,death_case
+2022-01-30,121,Tử vong,death_case
+2022-01-31,109,Tử vong,death_case
+2022-02-01,0,Tử vong,death_case
+2022-02-02,0,Tử vong,death_case
+2022-02-03,286,Tử vong,death_case
+2022-02-04,84,Tử vong,death_case
+2022-02-05,114,Tử vong,death_case
+2022-02-06,63,Tử vong,death_case
+2022-02-07,100,Tử vong,death_case
+2022-02-08,97,Tử vong,death_case
+2022-02-09,93,Tử vong,death_case
+2022-02-10,74,Tử vong,death_case
+2022-02-11,96,Tử vong,death_case
+2022-02-12,78,Tử vong,death_case
+2022-02-13,84,Tử vong,death_case
+2022-02-14,91,Tử vong,death_case
+2022-02-15,85,Tử vong,death_case
+2022-02-16,66,Tử vong,death_case
+2022-02-17,90,Tử vong,death_case
+2022-02-18,80,Tử vong,death_case
+2022-02-19,65,Tử vong,death_case
+2022-02-20,78,Tử vong,death_case
+2022-02-21,104,Tử vong,death_case
+2022-02-22,77,Tử vong,death_case
+2022-02-23,91,Tử vong,death_case
+2022-02-24,111,Tử vong,death_case
+2022-02-25,78,Tử vong,death_case
+2022-02-26,88,Tử vong,death_case
+2022-02-27,94,Tử vong,death_case
+2022-02-28,108,Tử vong,death_case
+2022-03-01,86,Tử vong,death_case
+2022-03-02,114,Tử vong,death_case
+2022-03-03,95,Tử vong,death_case
+2022-03-04,97,Tử vong,death_case
+2022-03-05,82,Tử vong,death_case
+2022-03-06,87,Tử vong,death_case
+2022-03-07,78,Tử vong,death_case
+2022-03-08,86,Tử vong,death_case
+2022-03-09,109,Tử vong,death_case
+2022-03-10,71,Tử vong,death_case
+2022-03-11,71,Tử vong,death_case
+2022-03-12,62,Tử vong,death_case
+2022-03-13,95,Tử vong,death_case
+2022-03-14,92,Tử vong,death_case
+2022-03-15,68,Tử vong,death_case
+2022-03-16,62,Tử vong,death_case
+2022-03-17,76,Tử vong,death_case
+2022-03-18,57,Tử vong,death_case
+2022-03-19,77,Tử vong,death_case
+2022-03-20,63,Tử vong,death_case
+2022-03-21,69,Tử vong,death_case
+2022-03-22,65,Tử vong,death_case
+2022-03-23,61,Tử vong,death_case
+2022-03-24,70,Tử vong,death_case
+2022-03-25,51,Tử vong,death_case
+2022-03-26,62,Tử vong,death_case
+2022-03-27,48,Tử vong,death_case
+2022-03-28,52,Tử vong,death_case
+2022-03-29,55,Tử vong,death_case
+2022-03-30,41,Tử vong,death_case
+2022-03-31,39,Tử vong,death_case
+2022-04-01,33,Tử vong,death_case
+2022-04-02,37,Tử vong,death_case
+2022-04-03,37,Tử vong,death_case
+2022-04-04,42,Tử vong,death_case
+2022-04-05,39,Tử vong,death_case
+2022-04-06,31,Tử vong,death_case
+2022-04-07,21,Tử vong,death_case
+2022-04-08,35,Tử vong,death_case
+2022-04-09,26,Tử vong,death_case
+2022-04-10,19,Tử vong,death_case
+2022-04-11,17,Tử vong,death_case
+2022-04-12,28,Tử vong,death_case
+2022-04-13,20,Tử vong,death_case
+2022-04-14,23,Tử vong,death_case
+2022-04-15,23,Tử vong,death_case
+2022-04-16,10,Tử vong,death_case
+2022-04-17,10,Tử vong,death_case
+2022-04-18,13,Tử vong,death_case
+2022-04-19,18,Tử vong,death_case
+2022-04-20,7,Tử vong,death_case
+2022-04-21,9,Tử vong,death_case
+2022-04-22,7,Tử vong,death_case
+2022-04-23,6,Tử vong,death_case
+2022-04-24,9,Tử vong,death_case
+2022-04-25,8,Tử vong,death_case
+2022-04-26,8,Tử vong,death_case
+2022-04-27,5,Tử vong,death_case
+2022-04-28,3,Tử vong,death_case
+2022-04-29,1,Tử vong,death_case
+2022-04-30,3,Tử vong,death_case
+2022-05-01,1,Tử vong,death_case
+2022-05-02,2,Tử vong,death_case
+2022-05-03,0,Tử vong,death_case
+2022-05-04,0,Tử vong,death_case
+2022-05-05,0,Tử vong,death_case
+2022-05-06,0,Tử vong,death_case
+2022-05-07,0,Tử vong,death_case
+2022-05-08,0,Tử vong,death_case
+2022-05-09,0,Tử vong,death_case
+2022-05-10,0,Tử vong,death_case
+2022-05-11,0,Tử vong,death_case
+2022-05-12,0,Tử vong,death_case
+2022-05-13,0,Tử vong,death_case
+2022-05-14,0,Tử vong,death_case
+2022-05-15,0,Tử vong,death_case
+2022-05-16,2,Tử vong,death_case
+2022-05-17,4,Tử vong,death_case
+2022-05-18,1,Tử vong,death_case
+2022-05-19,1,Tử vong,death_case
+2022-05-20,2,Tử vong,death_case
+2022-05-21,0,Tử vong,death_case
+2022-05-22,0,Tử vong,death_case
+2022-05-23,1,Tử vong,death_case
+2022-05-24,0,Tử vong,death_case
+2022-05-25,2,Tử vong,death_case
+2022-05-26,0,Tử vong,death_case
+2022-05-27,0,Tử vong,death_case
+2022-05-28,0,Tử vong,death_case
+2022-05-29,0,Tử vong,death_case
+2022-05-30,0,Tử vong,death_case
+2022-05-31,0,Tử vong,death_case
+2022-06-01,0,Tử vong,death_case
+2022-06-02,0,Tử vong,death_case
+2022-06-03,0,Tử vong,death_case
+2022-06-04,0,Tử vong,death_case
+2022-06-05,0,Tử vong,death_case
+2022-06-06,0,Tử vong,death_case
+2022-06-07,0,Tử vong,death_case
+2022-06-08,0,Tử vong,death_case
+2022-06-09,0,Tử vong,death_case
+2022-06-10,0,Tử vong,death_case
+2022-06-11,0,Tử vong,death_case
+2022-06-12,0,Tử vong,death_case
+2022-06-13,0,Tử vong,death_case
+2022-06-14,0,Tử vong,death_case
+2022-06-15,0,Tử vong,death_case
+2022-06-16,0,Tử vong,death_case
+2022-06-17,0,Tử vong,death_case
+2022-06-18,0,Tử vong,death_case
+2022-06-19,0,Tử vong,death_case
+2022-06-20,0,Tử vong,death_case
+2022-06-21,0,Tử vong,death_case
+2022-06-22,0,Tử vong,death_case
+2022-06-23,0,Tử vong,death_case
+2022-06-24,0,Tử vong,death_case
+2022-06-25,0,Tử vong,death_case
+2022-06-26,0,Tử vong,death_case
+2022-06-27,0,Tử vong,death_case
+2022-06-28,0,Tử vong,death_case
+2022-06-29,0,Tử vong,death_case
+2022-06-30,0,Tử vong,death_case
+2022-07-01,0,Tử vong,death_case
+2022-07-02,0,Tử vong,death_case
+2022-07-03,0,Tử vong,death_case
+2022-07-04,0,Tử vong,death_case
+2022-07-05,0,Tử vong,death_case
+2022-07-06,0,Tử vong,death_case
+2022-07-07,0,Tử vong,death_case
+2022-07-08,0,Tử vong,death_case
+2022-07-09,0,Tử vong,death_case
+2022-07-10,0,Tử vong,death_case
+2022-07-11,0,Tử vong,death_case
+2022-07-12,0,Tử vong,death_case
+2022-07-13,0,Tử vong,death_case
+2022-07-14,0,Tử vong,death_case
+2022-07-15,0,Tử vong,death_case
+2022-07-16,0,Tử vong,death_case
+2022-07-17,0,Tử vong,death_case
+2022-07-18,0,Tử vong,death_case
+2022-07-19,0,Tử vong,death_case
+2022-07-20,0,Tử vong,death_case
+2022-07-21,0,Tử vong,death_case
+2022-07-22,0,Tử vong,death_case
+2022-07-23,0,Tử vong,death_case
+2022-07-24,0,Tử vong,death_case
+2022-07-25,0,Tử vong,death_case
+2022-07-26,0,Tử vong,death_case
+2022-07-27,0,Tử vong,death_case
+2022-07-28,0,Tử vong,death_case
+2022-07-29,0,Tử vong,death_case
+2022-07-30,0,Tử vong,death_case
+2022-07-31,0,Tử vong,death_case
+2022-08-01,0,Tử vong,death_case
+2022-08-02,0,Tử vong,death_case
+2022-08-03,0,Tử vong,death_case
+2022-08-04,0,Tử vong,death_case
+2022-08-05,0,Tử vong,death_case
+2022-08-06,0,Tử vong,death_case
+2022-08-07,0,Tử vong,death_case
+2022-08-08,0,Tử vong,death_case
+2022-08-09,0,Tử vong,death_case
+2022-08-10,0,Tử vong,death_case
+2022-08-11,0,Tử vong,death_case
+2022-08-12,0,Tử vong,death_case
+2022-08-13,0,Tử vong,death_case
+2022-08-14,0,Tử vong,death_case
+2022-08-15,0,Tử vong,death_case
+2022-08-16,0,Tử vong,death_case
+2022-08-17,0,Tử vong,death_case
+2022-08-18,0,Tử vong,death_case
+2022-08-19,0,Tử vong,death_case
+2022-08-20,0,Tử vong,death_case
+2022-08-21,0,Tử vong,death_case
+2022-08-22,0,Tử vong,death_case
+2022-08-23,0,Tử vong,death_case
+2022-08-24,0,Tử vong,death_case
+2022-08-25,0,Tử vong,death_case
+2022-08-26,0,Tử vong,death_case
+2022-08-27,0,Tử vong,death_case
+2022-08-28,0,Tử vong,death_case
+2022-08-29,0,Tử vong,death_case
+2022-08-30,0,Tử vong,death_case
+2022-08-31,0,Tử vong,death_case
+2022-09-01,0,Tử vong,death_case
+2022-09-02,0,Tử vong,death_case
+2022-09-03,0,Tử vong,death_case
+2022-09-04,0,Tử vong,death_case
+2022-09-05,0,Tử vong,death_case
+2022-09-06,0,Tử vong,death_case
+2022-09-07,0,Tử vong,death_case
+2022-09-08,0,Tử vong,death_case
+2022-09-09,0,Tử vong,death_case
+2022-09-10,0,Tử vong,death_case
+2022-09-11,0,Tử vong,death_case
+2022-09-12,0,Tử vong,death_case
+2022-09-13,0,Tử vong,death_case
+2022-09-14,0,Tử vong,death_case
+2022-09-15,0,Tử vong,death_case
+2022-09-16,0,Tử vong,death_case
+2022-09-17,0,Tử vong,death_case
+2022-09-18,0,Tử vong,death_case
+2022-09-19,0,Tử vong,death_case
+2022-09-20,0,Tử vong,death_case
+2022-09-21,0,Tử vong,death_case
+2022-09-22,0,Tử vong,death_case
+2022-09-23,0,Tử vong,death_case
+2022-09-24,0,Tử vong,death_case
+2022-09-25,0,Tử vong,death_case
+2022-09-26,0,Tử vong,death_case
+2022-09-27,0,Tử vong,death_case
+2022-09-28,0,Tử vong,death_case
+2022-09-29,0,Tử vong,death_case
+2022-09-30,0,Tử vong,death_case
+2022-10-01,0,Tử vong,death_case
+2022-10-02,0,Tử vong,death_case
+2022-10-03,0,Tử vong,death_case
+2022-10-04,0,Tử vong,death_case
+2022-10-05,0,Tử vong,death_case
+2022-10-06,0,Tử vong,death_case
+2022-10-07,0,Tử vong,death_case
+2022-10-08,0,Tử vong,death_case
+2022-10-09,0,Tử vong,death_case
+2022-10-10,0,Tử vong,death_case
+2022-10-11,0,Tử vong,death_case
+2022-10-12,0,Tử vong,death_case
+2022-10-13,0,Tử vong,death_case
+2022-10-14,0,Tử vong,death_case
+2022-10-15,0,Tử vong,death_case
+2022-10-16,0,Tử vong,death_case
+2022-10-17,0,Tử vong,death_case
+2022-10-18,0,Tử vong,death_case
+2022-10-19,0,Tử vong,death_case
+2022-10-20,0,Tử vong,death_case
+2022-10-21,0,Tử vong,death_case
+2022-10-22,0,Tử vong,death_case
+2022-10-23,0,Tử vong,death_case
+2022-10-24,0,Tử vong,death_case
+2022-10-25,0,Tử vong,death_case
+2022-10-26,0,Tử vong,death_case
+2022-10-27,0,Tử vong,death_case
+2022-10-28,0,Tử vong,death_case
+2022-10-29,0,Tử vong,death_case
+2022-10-30,0,Tử vong,death_case
+2022-10-31,0,Tử vong,death_case
+2022-11-01,0,Tử vong,death_case
+2022-11-02,0,Tử vong,death_case
+2022-11-03,0,Tử vong,death_case
+2022-11-04,0,Tử vong,death_case
+2022-11-05,0,Tử vong,death_case
+2022-11-06,0,Tử vong,death_case
+2022-11-07,0,Tử vong,death_case
+2022-11-08,0,Tử vong,death_case
+2022-11-09,0,Tử vong,death_case
+2022-11-10,0,Tử vong,death_case
+2022-11-11,0,Tử vong,death_case
+2022-11-12,0,Tử vong,death_case
+2022-11-13,0,Tử vong,death_case
+2022-11-14,0,Tử vong,death_case
+2022-11-15,0,Tử vong,death_case
+2022-11-16,0,Tử vong,death_case
+2022-11-17,0,Tử vong,death_case
+2022-11-18,0,Tử vong,death_case
+2022-11-19,0,Tử vong,death_case
+2022-11-20,0,Tử vong,death_case
+2022-11-21,0,Tử vong,death_case
+2022-11-22,0,Tử vong,death_case
+2022-11-23,0,Tử vong,death_case
+2022-11-24,0,Tử vong,death_case
+2022-11-25,0,Tử vong,death_case
+2022-11-26,0,Tử vong,death_case
+2022-11-27,0,Tử vong,death_case
+2022-11-28,0,Tử vong,death_case
+2022-11-29,0,Tử vong,death_case
+2022-11-30,0,Tử vong,death_case
+2022-12-01,0,Tử vong,death_case
+2022-12-02,0,Tử vong,death_case
+2022-12-03,0,Tử vong,death_case
+2022-12-04,0,Tử vong,death_case
+2022-12-05,0,Tử vong,death_case
+2022-12-06,0,Tử vong,death_case
+2022-12-07,0,Tử vong,death_case
+2022-12-08,0,Tử vong,death_case
+2022-12-09,0,Tử vong,death_case
+2022-12-10,0,Tử vong,death_case
+2022-12-11,0,Tử vong,death_case
+2022-12-12,0,Tử vong,death_case
+2022-12-13,0,Tử vong,death_case
+2022-12-14,0,Tử vong,death_case
+2022-12-15,0,Tử vong,death_case
+2022-12-16,0,Tử vong,death_case
+2022-12-17,0,Tử vong,death_case
+2022-12-18,0,Tử vong,death_case
+2022-12-19,0,Tử vong,death_case
+2022-12-20,0,Tử vong,death_case
+2022-12-21,0,Tử vong,death_case
+2022-12-22,0,Tử vong,death_case
+2022-12-23,0,Tử vong,death_case
+2022-12-24,0,Tử vong,death_case
+2022-12-25,0,Tử vong,death_case
+2022-12-26,0,Tử vong,death_case
+2022-12-27,0,Tử vong,death_case
+2022-12-28,0,Tử vong,death_case
+2022-12-29,0,Tử vong,death_case
+2022-12-30,0,Tử vong,death_case
+2022-12-31,0,Tử vong,death_case
+2023-01-01,0,Tử vong,death_case
+2023-01-02,0,Tử vong,death_case
+2023-01-03,0,Tử vong,death_case
+2023-01-04,0,Tử vong,death_case
+2023-01-05,0,Tử vong,death_case
+2023-01-06,0,Tử vong,death_case
+2023-01-07,0,Tử vong,death_case
+2023-01-08,0,Tử vong,death_case
+2023-01-09,0,Tử vong,death_case
+2023-01-10,0,Tử vong,death_case
+2023-01-11,0,Tử vong,death_case
+2023-01-12,0,Tử vong,death_case
+2023-01-13,0,Tử vong,death_case
+2023-01-14,0,Tử vong,death_case
+2023-01-15,0,Tử vong,death_case
+2023-01-16,0,Tử vong,death_case
+2023-01-17,0,Tử vong,death_case
+2023-01-18,0,Tử vong,death_case
+2023-01-19,0,Tử vong,death_case
+2020-01-23,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-01-24,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-01-25,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-01-26,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-01-27,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-01-28,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-01-29,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-01-30,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-01-31,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-01,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-02,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-03,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-04,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-05,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-08,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-09,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-10,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-11,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-12,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-13,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-14,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-15,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-16,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-17,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-18,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-02-19,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-08,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-09,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-10,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-11,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-12,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-13,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-14,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-15,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-16,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-17,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-18,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-20,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-21,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-22,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-23,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-24,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-25,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-26,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-27,6,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-28,6,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-29,7,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-30,8,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-03-31,9,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-01,9,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-02,10,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-03,9,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-04,9,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-05,8,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-06,6,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-07,5,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-08,4,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-09,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-10,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-11,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-12,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-13,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-14,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-15,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-16,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-17,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-18,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-19,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-20,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-21,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-22,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-23,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-24,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-25,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-26,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-27,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-28,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-29,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-04-30,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-01,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-03,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-04,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-05,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-08,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-09,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-10,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-11,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-12,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-13,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-14,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-15,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-16,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-17,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-18,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-20,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-21,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-22,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-23,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-24,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-25,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-26,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-27,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-28,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-29,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-30,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-05-31,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-01,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-02,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-03,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-04,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-05,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-08,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-09,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-10,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-11,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-12,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-13,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-14,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-15,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-16,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-17,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-18,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-20,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-21,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-22,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-23,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-24,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-25,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-26,4,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-27,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-28,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-29,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-06-30,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-01,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-02,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-03,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-04,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-07,14,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-08,14,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-09,14,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-10,14,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-11,14,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-12,7,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-13,5,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-14,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-15,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-16,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-17,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-18,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-20,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-21,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-22,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-23,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-24,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-25,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-26,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-27,4,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-28,4,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-29,4,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-30,5,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-07-31,7,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-01,15,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-02,20,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-03,25,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-04,28,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-05,32,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-06,36,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-07,38,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-08,35,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-09,32,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-10,33,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-11,29,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-12,26,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-13,23,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-14,22,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-15,20,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-16,20,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-17,15,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-18,17,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-19,16,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-20,14,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-21,12,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-22,9,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-23,8,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-24,7,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-25,6,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-26,5,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-27,5,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-28,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-29,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-30,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-08-31,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-01,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-02,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-03,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-04,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-05,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-08,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-09,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-10,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-11,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-12,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-13,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-14,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-15,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-16,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-17,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-18,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-20,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-21,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-22,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-23,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-24,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-25,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-26,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-27,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-28,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-29,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-09-30,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-01,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-02,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-03,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-04,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-05,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-08,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-09,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-10,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-11,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-12,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-13,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-14,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-15,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-16,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-17,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-18,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-20,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-21,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-22,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-23,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-24,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-25,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-26,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-27,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-28,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-29,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-30,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-10-31,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-01,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-02,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-03,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-04,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-05,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-08,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-09,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-10,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-11,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-12,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-13,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-14,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-15,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-16,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-17,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-18,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-20,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-21,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-22,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-23,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-24,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-25,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-26,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-27,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-28,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-29,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-11-30,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-01,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-02,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-03,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-04,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-05,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-08,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-09,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-10,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-11,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-12,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-13,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-14,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-15,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-16,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-17,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-18,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-20,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-21,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-22,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-23,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-24,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-25,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-26,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-27,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-28,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-29,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-30,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2020-12-31,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-01,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-02,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-03,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-04,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-05,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-08,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-09,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-10,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-11,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-12,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-13,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-14,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-15,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-16,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-17,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-18,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-20,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-21,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-22,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-23,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-24,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-25,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-26,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-27,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-28,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-29,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-30,24,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-01-31,27,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-01,39,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-02,45,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-03,48,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-04,47,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-05,53,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-06,42,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-07,37,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-08,26,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-09,22,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-10,27,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-11,25,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-12,25,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-13,23,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-14,29,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-15,31,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-16,31,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-17,29,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-18,33,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-19,26,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-20,28,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-21,23,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-22,20,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-23,20,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-24,16,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-25,12,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-26,13,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-27,11,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-02-28,10,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-01,10,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-02,10,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-03,10,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-04,9,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-05,9,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-06,9,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-07,10,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-08,8,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-09,6,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-10,5,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-11,4,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-12,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-13,3,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-14,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-15,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-16,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-17,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-18,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-19,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-20,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-21,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-22,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-23,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-24,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-25,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-26,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-27,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-28,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-29,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-30,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-03-31,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-01,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-02,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-03,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-04,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-05,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-06,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-07,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-08,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-09,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-10,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-11,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-12,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-13,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-14,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-15,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-16,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-17,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-18,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-19,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-20,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-21,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-22,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-23,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-24,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-25,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-26,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-27,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-28,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-29,0,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-04-30,1,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-01,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-02,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-03,2,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-04,4,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-05,5,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-06,5,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-07,16,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-08,21,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-09,32,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-10,44,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-11,61,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-12,72,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-13,82,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-14,84,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-15,91,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-16,91,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-17,119,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-18,118,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-19,128,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-20,132,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-21,148,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-22,151,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-23,161,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-24,139,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-25,149,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-26,190,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-27,209,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-28,208,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-29,233,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-30,252,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-05-31,261,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-01,271,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-02,246,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-03,241,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-04,250,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-05,241,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-06,235,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-07,236,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-08,229,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-09,216,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-10,242,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-11,236,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-12,230,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-13,232,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-14,243,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-15,251,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-16,283,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-17,288,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-18,330,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-19,341,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-20,366,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-21,375,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-22,375,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-23,342,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-24,314,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-25,291,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-26,375,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-27,326,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-28,324,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-29,354,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-06-30,371,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-01,415,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-02,466,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-03,420,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-04,537,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-05,611,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-06,700,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-07,808,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-08,949,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-09,963,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-10,1118,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-11,1254,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-12,1409,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-13,1590,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-14,1769,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-15,1871,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-16,2342,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-17,2349,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-18,2941,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-19,3422,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-20,3682,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-21,4037,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-22,4733,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-23,5080,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-24,5597,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-25,6058,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-26,5957,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-27,6903,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-28,7348,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-29,7272,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-30,7425,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-07-31,7904,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-01,7815,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-02,8387,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-03,7907,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-04,7977,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-05,8138,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-06,8087,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-07,8044,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-08,7863,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-09,8018,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-10,8289,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-11,8292,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-12,8446,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-13,8793,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-14,8912,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-15,9248,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-16,9233,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-17,9136,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-18,9312,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-19,9298,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-20,9443,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-21,9663,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-22,10198,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-23,10453,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-24,10704,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-25,10874,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-26,11371,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-27,11504,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-28,12470,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-29,12287,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-30,12490,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-08-31,13040,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-01,13304,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-02,13218,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-03,13454,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-04,13099,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-05,12732,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-06,12791,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-07,12572,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-08,12805,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-09,12978,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-10,12863,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-11,12645,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-12,12989,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-13,12835,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-14,12620,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-15,12083,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-16,11780,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-17,11506,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-18,11231,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-19,10856,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-20,10564,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-21,10202,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-22,10372,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-23,10509,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-24,10359,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-25,9933,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-26,9978,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-27,9971,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-28,10072,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-29,9548,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-09-30,9145,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-01,8962,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-02,8749,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-03,8164,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-04,7755,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-05,7488,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-06,7138,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-07,6632,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-08,6064,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-09,5795,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-10,5693,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-11,5411,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-12,4950,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-13,4612,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-14,4469,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-15,4578,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-16,4549,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-17,4425,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-18,4222,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-19,4165,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-20,4245,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-21,4220,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-22,4148,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-23,4075,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-24,4107,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-25,4232,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-26,4247,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-27,4307,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-28,4504,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-29,4642,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-30,4854,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-10-31,5044,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-01,5283,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-02,5590,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-03,5805,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-04,6088,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-05,6257,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-06,6491,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-07,6765,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-08,6951,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-09,7206,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-10,7547,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-11,7620,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-12,7834,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-13,8034,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-14,8172,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-15,8248,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-16,8340,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-17,8729,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-18,9020,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-19,9435,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-20,9531,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-21,9817,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-22,10191,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-23,10433,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-24,10399,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-25,10732,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-26,10929,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-27,11422,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-28,11696,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-29,12003,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-11-30,12497,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-01,12980,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-02,13434,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-03,14147,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-04,14850,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-05,15300,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-06,16081,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-07,16198,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-08,16875,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-09,16754,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-10,16451,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-11,16125,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-12,16208,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-13,15669,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-14,15778,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-15,15274,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-16,15404,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-17,15266,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-18,15192,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-19,15161,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-20,15371,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-21,15316,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-22,15475,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-23,15618,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-24,15908,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-25,16041,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-26,15995,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-27,15864,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-28,15850,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-29,15580,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-30,15201,TB Ca nhiễm 7 ngày,7_days_avg_case
+2021-12-31,15698,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-01,15746,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-02,15641,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-03,15888,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-04,16038,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-05,17077,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-06,17524,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-07,18372,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-08,18340,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-09,18582,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-10,19473,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-11,19311,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-12,18500,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-13,20104,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-14,18806,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-15,18773,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-16,18744,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-17,17671,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-18,18658,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-19,18764,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-20,17009,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-21,17000,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-22,16982,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-23,16889,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-24,16788,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-25,15733,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-26,15581,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-27,15574,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-28,15436,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-29,15292,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-30,15782,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-01-31,17326,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-01,17087,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-02,16417,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-03,15394,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-04,14380,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-05,13908,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-06,12918,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-07,11256,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-08,11852,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-09,13408,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-10,15584,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-11,18076,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-12,20203,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-13,22366,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-14,24118,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-15,25917,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-16,27331,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-17,28870,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-18,30322,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-19,32595,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-20,36505,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-21,39479,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-22,41973,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-23,45401,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-24,52170,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-25,56874,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-26,62038,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-27,68352,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-02-28,76097,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-01,86636,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-02,94969,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-03,104834,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-04,120094,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-05,133579,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-06,144169,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-07,158520,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-08,162333,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-09,173858,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-10,190140,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-11,196212,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-12,198178,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-13,235251,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-14,236340,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-15,253117,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-16,250356,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-17,249401,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-18,246011,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-19,247470,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-20,211459,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-21,205276,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-22,170323,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-23,180636,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-24,163833,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-25,153062,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-26,147607,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-27,144447,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-28,133834,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-29,142872,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-30,123441,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-03-31,115573,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-01,111720,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-02,101340,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-03,88099,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-04,89547,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-05,84595,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-06,76359,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-07,72454,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-08,72151,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-09,69077,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-10,64580,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-11,54046,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-12,54504,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-13,50050,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-14,45221,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-15,35619,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-16,36962,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-17,35422,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-18,33472,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-19,32236,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-20,30907,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-21,29286,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-22,30366,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-23,21398,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-24,19543,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-25,18707,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-26,13707,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-27,12983,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-28,12703,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-29,9352,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-04-30,8625,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-01,7874,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-02,7146,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-03,6410,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-04,5593,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-05,4418,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-06,4016,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-07,3695,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-08,3443,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-09,3236,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-10,3101,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-11,3122,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-12,3074,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-13,3388,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-14,3224,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-15,3016,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-16,2920,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-17,2831,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-18,2678,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-19,2545,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-20,2006,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-21,1852,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-22,1789,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-23,1750,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-24,1697,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-25,1631,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-26,1562,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-27,1354,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-28,1305,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-29,1256,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-30,1194,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-05-31,1186,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-01,1141,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-02,1099,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-03,1232,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-04,1203,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-05,1170,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-06,1141,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-07,1096,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-08,1088,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-09,1069,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-10,868,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-11,857,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-12,954,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-13,938,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-14,911,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-15,896,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-16,889,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-17,886,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-18,960,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-19,837,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-20,832,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-21,818,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-22,803,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-23,814,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-24,809,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-25,832,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-26,826,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-27,829,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-28,846,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-29,849,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-06-30,825,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-01,839,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-02,737,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-03,748,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-04,741,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-05,748,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-06,779,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-07,799,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-08,809,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-09,791,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-10,888,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-11,881,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-12,864,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-13,848,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-14,860,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-15,863,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-16,885,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-17,785,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-18,825,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-19,864,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-20,894,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-21,917,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-22,969,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-23,995,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-24,1048,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-25,1048,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-26,1056,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-27,1110,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-28,1325,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-29,1383,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-30,1478,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-07-31,1563,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-01,1667,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-02,1736,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-03,1813,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-04,1731,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-05,30347,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-06,30385,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-07,30377,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-08,30363,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-09,30410,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-10,30459,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-11,30446,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-12,2556,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-13,2573,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-14,2602,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-15,2806,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-16,2804,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-17,2911,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-18,3045,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-19,2465,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-20,2597,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-21,2745,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-22,2576,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-23,2648,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-24,2678,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-25,2789,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-26,2796,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-27,2826,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-28,2754,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-29,2774,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-30,2804,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-08-31,2811,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-01,2688,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-02,2218,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-03,1982,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-04,1896,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-05,1851,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-06,1816,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-07,1881,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-08,2045,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-09,2493,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-10,2793,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-11,2922,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-12,2958,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-13,2937,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-14,2881,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-15,2771,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-16,2738,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-17,2657,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-18,2655,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-19,2690,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-20,2657,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-21,2639,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-22,2522,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-23,2374,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-24,2297,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-25,2111,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-26,1978,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-27,1929,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-28,1702,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-29,1602,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-09-30,1466,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-01,1312,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-02,1240,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-03,1173,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-04,1082,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-05,1001,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-06,945,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-07,967,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-08,857,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-09,859,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-10,842,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-11,877,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-12,907,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-13,907,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-14,898,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-15,882,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-16,889,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-17,882,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-18,829,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-19,743,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-20,763,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-21,688,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-22,687,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-23,650,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-24,626,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-25,608,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-26,593,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-27,520,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-28,512,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-29,793,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-30,762,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-10-31,783,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-01,764,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-02,754,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-03,744,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-04,792,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-05,477,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-06,490,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-07,481,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-08,475,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-09,474,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-10,433,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-11,375,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-12,417,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-13,405,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-14,405,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-15,382,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-16,402,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-17,407,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-18,420,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-19,392,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-20,390,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-21,394,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-22,418,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-23,380,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-24,387,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-25,384,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-26,404,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-27,428,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-28,440,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-29,434,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-11-30,469,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-01,460,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-02,473,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-03,482,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-04,477,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-05,455,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-06,469,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-07,441,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-08,443,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-09,435,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-10,415,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-11,417,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-12,416,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-13,410,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-14,410,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-15,385,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-16,365,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-17,341,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-18,329,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-19,326,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-20,305,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-21,282,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-22,265,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-23,240,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-24,237,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-25,206,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-26,191,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-27,181,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-28,182,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-29,172,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-30,175,TB Ca nhiễm 7 ngày,7_days_avg_case
+2022-12-31,149,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-01,146,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-02,144,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-03,128,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-04,108,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-05,101,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-06,79,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-07,71,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-08,68,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-09,68,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-10,70,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-11,71,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-12,64,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-13,66,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-14,63,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-15,58,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-16,53,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-17,47,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-18,43,TB Ca nhiễm 7 ngày,7_days_avg_case
+2023-01-19,44,TB Ca nhiễm 7 ngày,7_days_avg_case
