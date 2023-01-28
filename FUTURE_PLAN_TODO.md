@@ -1,0 +1,7 @@
+- Re-upload data from local machine to visualize in the application
+- Create a summary tab|page for modeling & processed data.
+- Create spatial temporal visualization map
+- Create a simple tab which allow customization with SVID model (initial state, model parameters, etc.)
+- Apply new new endemic model
+- Allow customization of model (block diagram, click and drag to create new model component, etc.)
+- Grow application to allow usage for other infectious disease, not just Covid-19.
