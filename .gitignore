@@ -1,0 +1,4 @@
+.wdm
+cache
+.ipynb_checkpoints
+__pycache__

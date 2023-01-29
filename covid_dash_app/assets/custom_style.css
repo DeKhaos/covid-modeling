@@ -1,0 +1,21 @@
+.c_alert{
+	padding:0rem 0rem;
+	margin-top:.25rem;
+	margin-bottom:.25rem;
+	font-size:0.8em;
+}
+
+.radio-group .form-check {
+  padding-left: 0;
+}
+
+.radio-group .btn-group > .form-check:not(:last-child) > .btn {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.radio-group .btn-group > .form-check:not(:first-child) > .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-left: -1px;
+}
