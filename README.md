@@ -212,6 +212,7 @@ Python model references:
 - [COVID-19 data with SIR model](https://www.kaggle.com/code/lisphilar/covid-19-data-with-sir-model/notebook)
 - [Modeling and Control of a Campus Outbreak of Coronavirus COVID-19](https://jckantor.github.io/CBE30338/03.09-COVID-19.html)
 - [Analysis of a COVID-19 compartmental model: a mathematical and computational approach](https://www.aimspress.com/article/doi/10.3934/mbe.2021396?viewType=HTML)
+
 SARIMA model references:
 - [Autoregression Models for Time Series Forecasting With Python](https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/)
 - [ARIMA Model – Complete Guide to Time Series Forecasting in Python](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
